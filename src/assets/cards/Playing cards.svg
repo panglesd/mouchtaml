@@ -1,0 +1,3241 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="2500"
+   height="4200"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="Playing cards.svg"
+   inkscape:export-filename="C:\Users\Monika\SkyDrive\Work\SuperDevResBlog\Envato\Playing cards\Playing cards.png"
+   inkscape:export-xdpi="20.629999"
+   inkscape:export-ydpi="20.629999">
+  <defs
+     id="defs4">
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern8695"
+       id="pattern8717"
+       patternTransform="matrix(10,0,0,10,1242.0002,-1.999835)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern8689"
+       id="pattern8711"
+       patternTransform="matrix(10,0,0,10,664.00016,2.000165)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern8683"
+       id="pattern8705"
+       patternTransform="matrix(10,0,0,10,1.3446808e-4,1.6498566e-4)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern8695"
+       id="pattern8701"
+       patternTransform="matrix(10,0,0,10,1812.0002,2.000165)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern8689"
+       id="pattern8695"
+       patternTransform="matrix(10,0,0,10,1512,-4)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern8683"
+       id="pattern8689"
+       patternTransform="matrix(10,0,0,10,934,0)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Checkerboardwhite"
+       id="pattern8683"
+       patternTransform="matrix(10,0,0,10,266,0)" />
+    <pattern
+       inkscape:stockid="Checkerboard white"
+       id="Checkerboardwhite"
+       patternTransform="translate(0,0) scale(10,10)"
+       height="2"
+       width="2"
+       patternUnits="userSpaceOnUse"
+       inkscape:collect="always">
+      <rect
+         id="rect7738"
+         height="1"
+         width="1"
+         y="0"
+         x="0"
+         style="fill:white;stroke:none" />
+      <rect
+         id="rect7740"
+         height="1"
+         width="1"
+         y="1"
+         x="1"
+         style="fill:white;stroke:none" />
+    </pattern>
+    <filter
+       id="filter3927"
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood3929"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite3931"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur3933"
+         in="composite"
+         stdDeviation="6"
+         result="blur" />
+      <feOffset
+         id="feOffset3935"
+         dx="4"
+         dy="4"
+         result="offset" />
+      <feComposite
+         id="feComposite3937"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.15"
+     inkscape:cx="1612.473"
+     inkscape:cy="4452.4069"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     showborder="false" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,3147.6378)">
+    <rect
+       style="fill:#004d2c;fill-opacity:1;stroke:none"
+       id="rect6056"
+       width="3000"
+       height="6000"
+       x="-53.333328"
+       y="-4887.6377" />
+    <rect
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="rect2985"
+       width="3000"
+       height="6000"
+       x="0"
+       y="-4947.6377" />
+    <g
+       id="g3171"
+       transform="translate(-28.333361,-585.58235)"
+       inkscape:export-filename="C:\Users\Monika\SkyDrive\Work\SuperDevResBlog\Behance.net\Playing cards\8.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="rect3173"
+         width="255"
+         height="380"
+         x="250"
+         y="-2497.6377"
+         rx="9.4444447"
+         ry="9.6938772" />
+      <text
+         xml:space="preserve"
+         style="font-size:150px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Segoe UI Emoji;-inkscape-font-specification:Segoe UI Emoji"
+         x="326.15723"
+         y="-2254.9768"
+         id="text3175"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3177"
+           x="326.15723"
+           y="-2254.9768">♠</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+         x="265.21094"
+         y="-2446.9629"
+         id="text3179"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3181"
+           x="265.21094"
+           y="-2446.9629">8</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3183"
+         y="2168.3125"
+         x="-484.77942"
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+         xml:space="preserve"
+         transform="scale(-1,-1)"><tspan
+           y="2168.3125"
+           x="-484.77942"
+           id="tspan3185"
+           sodipodi:role="line">8</tspan></text>
+    </g>
+    <g
+       transform="translate(337.49998,-585.58235)"
+       id="g3187"
+       inkscape:export-filename="C:\Users\Monika\SkyDrive\Work\SuperDevResBlog\Behance.net\Playing cards\9.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         ry="9.6938772"
+         rx="9.4444447"
+         y="-2497.6377"
+         x="250"
+         height="380"
+         width="255"
+         id="rect3189"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3191"
+         y="-2254.9768"
+         x="326.15723"
+         style="font-size:150px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Segoe UI Emoji;-inkscape-font-specification:Segoe UI Emoji"
+         xml:space="preserve"><tspan
+           y="-2254.9768"
+           x="326.15723"
+           id="tspan3193"
+           sodipodi:role="line">♠</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3195"
+         y="-2446.9629"
+         x="265.21094"
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+         xml:space="preserve"><tspan
+           y="-2446.9629"
+           x="265.21094"
+           id="tspan3197"
+           sodipodi:role="line">9</tspan></text>
+      <text
+         transform="scale(-1,-1)"
+         xml:space="preserve"
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+         x="-485.30676"
+         y="2168.3125"
+         id="text3199"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3201"
+           x="-485.30676"
+           y="2168.3125">9</tspan></text>
+    </g>
+    <g
+       id="g3203"
+       transform="translate(703.33332,-585.58235)"
+       inkscape:export-filename="C:\Users\Monika\SkyDrive\Work\SuperDevResBlog\Behance.net\Playing cards\10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="rect3205"
+         width="255"
+         height="380"
+         x="250"
+         y="-2497.6377"
+         rx="9.4444447"
+         ry="9.6938772" />
+      <text
+         xml:space="preserve"
+         style="font-size:150px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Segoe UI Emoji;-inkscape-font-specification:Segoe UI Emoji"
+         x="326.15723"
+         y="-2254.9768"
+         id="text3207"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3209"
+           x="326.15723"
+           y="-2254.9768">♠</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+         x="265.21094"
+         y="-2446.9629"
+         id="text3211"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3213"
+           x="265.21094"
+           y="-2446.9629">10</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3215"
+         y="2168.8926"
+         x="-491.39728"
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+         xml:space="preserve"
+         transform="scale(-1,-1)"><tspan
+           y="2168.8926"
+           x="-491.39728"
+           id="tspan3217"
+           sodipodi:role="line">10</tspan></text>
+    </g>
+    <g
+       transform="translate(1069.1667,-585.58235)"
+       id="g3219"
+       inkscape:export-filename="C:\Users\Monika\SkyDrive\Work\SuperDevResBlog\Behance.net\Playing cards\J.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         ry="9.6938772"
+         rx="9.4444447"
+         y="-2497.6377"
+         x="250"
+         height="380"
+         width="255"
+         id="rect3221"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3223"
+         y="-2254.9768"
+         x="326.15723"
+         style="font-size:150px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Segoe UI Emoji;-inkscape-font-specification:Segoe UI Emoji"
+         xml:space="preserve"><tspan
+           y="-2254.9768"
+           x="326.15723"
+           id="tspan3225"
+           sodipodi:role="line">♠</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3227"
+         y="-2446.9629"
+         x="265.21094"
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+         xml:space="preserve"><tspan
+           y="-2446.9629"
+           x="265.21094"
+           id="tspan3229"
+           sodipodi:role="line">J</tspan></text>
+      <text
+         transform="scale(-1,-1)"
+         xml:space="preserve"
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+         x="-480.58704"
+         y="2168.3125"
+         id="text3231"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3233"
+           x="-480.58704"
+           y="2168.3125">J</tspan></text>
+    </g>
+    <g
+       id="g3235"
+       transform="translate(1435.0001,-585.58235)"
+       inkscape:export-filename="C:\Users\Monika\SkyDrive\Work\SuperDevResBlog\Behance.net\Playing cards\Q.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="rect3237"
+         width="255"
+         height="380"
+         x="250"
+         y="-2497.6377"
+         rx="9.4444447"
+         ry="9.6938772" />
+      <text
+         xml:space="preserve"
+         style="font-size:150px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Segoe UI Emoji;-inkscape-font-specification:Segoe UI Emoji"
+         x="326.15723"
+         y="-2254.9768"
+         id="text3239"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3241"
+           x="326.15723"
+           y="-2254.9768">♠</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+         x="265.21094"
+         y="-2446.9629"
+         id="text3243"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3245"
+           x="265.21094"
+           y="-2446.9629">Q</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3247"
+         y="2168.3125"
+         x="-495.58997"
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+         xml:space="preserve"
+         transform="scale(-1,-1)"><tspan
+           y="2168.3125"
+           x="-495.58997"
+           id="tspan3249"
+           sodipodi:role="line">Q</tspan></text>
+    </g>
+    <g
+       id="g3590"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="C:\Users\Monika\SkyDrive\Work\SuperDevResBlog\Behance.net\Playing cards\Spade\A.png"
+       transform="translate(-53.333348,35.750596)">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\Monika\SkyDrive\Work\SuperDevResBlog\Behance.net\Playing cards\A.png"
+         ry="9.6938772"
+         rx="9.4444447"
+         y="-3609.8037"
+         x="274.99994"
+         height="380"
+         width="255"
+         id="rect2997"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\Monika\SkyDrive\Work\SuperDevResBlog\Behance.net\Playing cards\A.png"
+         sodipodi:linespacing="125%"
+         id="text3955"
+         y="-3367.1428"
+         x="351.15717"
+         style="font-size:150px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Segoe UI Emoji;-inkscape-font-specification:Segoe UI Emoji"
+         xml:space="preserve"><tspan
+           y="-3367.1428"
+           x="351.15717"
+           id="tspan3957"
+           sodipodi:role="line">♠</tspan></text>
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\Monika\SkyDrive\Work\SuperDevResBlog\Behance.net\Playing cards\A.png"
+         sodipodi:linespacing="125%"
+         id="text3980"
+         y="-3559.1289"
+         x="290.21088"
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+         xml:space="preserve"><tspan
+           y="-3559.1289"
+           x="290.21088"
+           id="tspan3982"
+           sodipodi:role="line">A</tspan></text>
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\Monika\SkyDrive\Work\SuperDevResBlog\Behance.net\Playing cards\A.png"
+         transform="scale(-1,-1)"
+         xml:space="preserve"
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+         x="-514.78912"
+         y="3280.4785"
+         id="text3002"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3004"
+           x="-514.78912"
+           y="3280.4785">A</tspan></text>
+    </g>
+    <g
+       id="g3015"
+       transform="translate(337.49994,-1076.4155)"
+       inkscape:export-filename="C:\Users\Monika\SkyDrive\Work\SuperDevResBlog\Behance.net\Playing cards\Spade\2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="rect3017"
+         width="255"
+         height="380"
+         x="250"
+         y="-2497.6377"
+         rx="9.4444447"
+         ry="9.6938772" />
+      <text
+         xml:space="preserve"
+         style="font-size:150px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Segoe UI Emoji;-inkscape-font-specification:Segoe UI Emoji"
+         x="326.15723"
+         y="-2254.9768"
+         id="text3019"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3021"
+           x="326.15723"
+           y="-2254.9768">♠</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+         x="265.21094"
+         y="-2446.9629"
+         id="text3023"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3025"
+           x="265.21094"
+           y="-2446.9629">2</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3027"
+         y="2168.3125"
+         x="-483.77747"
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+         xml:space="preserve"
+         transform="scale(-1,-1)"><tspan
+           y="2168.3125"
+           x="-483.77747"
+           id="tspan3029"
+           sodipodi:role="line">2</tspan></text>
+    </g>
+    <g
+       id="g4944"
+       transform="translate(120.83326,-1076.4155)"
+       inkscape:export-filename="C:\Users\Monika\SkyDrive\Work\SuperDevResBlog\Behance.net\Playing cards\Spade\3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         ry="9.6938772"
+         rx="9.4444447"
+         y="-2497.6377"
+         x="832.5"
+         height="380"
+         width="255"
+         id="rect3033"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3035"
+         y="-2254.9768"
+         x="908.65723"
+         style="font-size:150px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Segoe UI Emoji;-inkscape-font-specification:Segoe UI Emoji"
+         xml:space="preserve"><tspan
+           y="-2254.9768"
+           x="908.65723"
+           id="tspan3037"
+           sodipodi:role="line">♠</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3039"
+         y="-2446.9629"
+         x="847.71094"
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+         xml:space="preserve"><tspan
+           y="-2446.9629"
+           x="847.71094"
+           id="tspan3041"
+           sodipodi:role="line">3</tspan></text>
+      <text
+         transform="scale(-1,-1)"
+         xml:space="preserve"
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+         x="-1066.1456"
+         y="2168.3125"
+         id="text3043"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3045"
+           x="-1066.1456"
+           y="2168.3125">3</tspan></text>
+    </g>
+    <g
+       id="g4953"
+       transform="translate(196.66657,-1076.4155)"
+       inkscape:export-filename="C:\Users\Monika\SkyDrive\Work\SuperDevResBlog\Behance.net\Playing cards\Spade\4.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="rect3049"
+         width="255"
+         height="380"
+         x="1122.5"
+         y="-2497.6377"
+         rx="9.4444447"
+         ry="9.6938772" />
+      <text
+         xml:space="preserve"
+         style="font-size:150px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Segoe UI Emoji;-inkscape-font-specification:Segoe UI Emoji"
+         x="1198.6572"
+         y="-2254.9768"
+         id="text3051"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3053"
+           x="1198.6572"
+           y="-2254.9768">♠</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+         x="1137.7109"
+         y="-2446.9629"
+         id="text3055"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3057"
+           x="1137.7109"
+           y="-2446.9629">4</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3059"
+         y="2168.3125"
+         x="-1356.172"
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+         xml:space="preserve"
+         transform="scale(-1,-1)"><tspan
+           y="2168.3125"
+           x="-1356.172"
+           id="tspan3061"
+           sodipodi:role="line">4</tspan></text>
+    </g>
+    <g
+       transform="translate(1435,-1076.4155)"
+       id="g3063"
+       inkscape:export-filename="C:\Users\Monika\SkyDrive\Work\SuperDevResBlog\Behance.net\Playing cards\Spade\5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         ry="9.6938772"
+         rx="9.4444447"
+         y="-2497.6377"
+         x="250"
+         height="380"
+         width="255"
+         id="rect3065"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3067"
+         y="-2254.9768"
+         x="326.15723"
+         style="font-size:150px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Segoe UI Emoji;-inkscape-font-specification:Segoe UI Emoji"
+         xml:space="preserve"><tspan
+           y="-2254.9768"
+           x="326.15723"
+           id="tspan3069"
+           sodipodi:role="line">♠</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3071"
+         y="-2446.9629"
+         x="265.21094"
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+         xml:space="preserve"><tspan
+           y="-2446.9629"
+           x="265.21094"
+           id="tspan3073"
+           sodipodi:role="line">5</tspan></text>
+      <text
+         transform="scale(-1,-1)"
+         xml:space="preserve"
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+         x="-485.86047"
+         y="2168.3125"
+         id="text3075"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3077"
+           x="-485.86047"
+           y="2168.3125">5</tspan></text>
+    </g>
+    <g
+       id="g3079"
+       transform="translate(1800.8334,-1076.4155)"
+       inkscape:export-filename="C:\Users\Monika\SkyDrive\Work\SuperDevResBlog\Behance.net\Playing cards\Spade\6.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="rect3081"
+         width="255"
+         height="380"
+         x="250"
+         y="-2497.6377"
+         rx="9.4444447"
+         ry="9.6938772" />
+      <text
+         xml:space="preserve"
+         style="font-size:150px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Segoe UI Emoji;-inkscape-font-specification:Segoe UI Emoji"
+         x="326.15723"
+         y="-2254.9768"
+         id="text3083"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3085"
+           x="326.15723"
+           y="-2254.9768">♠</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+         x="265.21094"
+         y="-2446.9629"
+         id="text3087"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3089"
+           x="265.21094"
+           y="-2446.9629">6</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3091"
+         y="2168.3125"
+         x="-486.33508"
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+         xml:space="preserve"
+         transform="scale(-1,-1)"><tspan
+           y="2168.3125"
+           x="-486.33508"
+           id="tspan3093"
+           sodipodi:role="line">6</tspan></text>
+    </g>
+    <g
+       transform="translate(2166.6668,-1076.4154)"
+       id="g3095"
+       inkscape:export-filename="C:\Users\Monika\SkyDrive\Work\SuperDevResBlog\Behance.net\Playing cards\7.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         ry="9.6938772"
+         rx="9.4444447"
+         y="-2497.6377"
+         x="250"
+         height="380"
+         width="255"
+         id="rect3097"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3099"
+         y="-2254.9768"
+         x="326.15723"
+         style="font-size:150px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Segoe UI Emoji;-inkscape-font-specification:Segoe UI Emoji"
+         xml:space="preserve"><tspan
+           y="-2254.9768"
+           x="326.15723"
+           id="tspan3101"
+           sodipodi:role="line">♠</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3103"
+         y="-2446.9629"
+         x="265.21094"
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+         xml:space="preserve"><tspan
+           y="-2446.9629"
+           x="265.21094"
+           id="tspan3105"
+           sodipodi:role="line">7</tspan></text>
+      <text
+         transform="scale(-1,-1)"
+         xml:space="preserve"
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+         x="-483.72473"
+         y="2168.3125"
+         id="text3107"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3109"
+           x="-483.72473"
+           y="2168.3125">7</tspan></text>
+    </g>
+    <g
+       transform="translate(1800.8334,-585.58235)"
+       id="g3251"
+       inkscape:export-filename="C:\Users\Monika\SkyDrive\Work\SuperDevResBlog\Behance.net\Playing cards\K.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         ry="9.6938772"
+         rx="9.4444447"
+         y="-2497.6377"
+         x="250"
+         height="380"
+         width="255"
+         id="rect3253"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3255"
+         y="-2254.9768"
+         x="326.15723"
+         style="font-size:150px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Segoe UI Emoji;-inkscape-font-specification:Segoe UI Emoji"
+         xml:space="preserve"><tspan
+           y="-2254.9768"
+           x="326.15723"
+           id="tspan3257"
+           sodipodi:role="line">♠</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3259"
+         y="-2446.9629"
+         x="265.21094"
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+         xml:space="preserve"><tspan
+           y="-2446.9629"
+           x="265.21094"
+           id="tspan3261"
+           sodipodi:role="line">K</tspan></text>
+      <text
+         transform="scale(-1,-1)"
+         xml:space="preserve"
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+         x="-494.16614"
+         y="2168.3125"
+         id="text3263"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3265"
+           x="-494.16614"
+           y="2168.3125">K</tspan></text>
+    </g>
+    <g
+       id="g5190"
+       transform="translate(424.1667,-1000.5823)"
+       inkscape:export-filename="C:\Users\Monika\SkyDrive\Work\SuperDevResBlog\Behance.net\Playing cards\Joker.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="rect3269"
+         width="255"
+         height="380"
+         x="1992.5"
+         y="-2082.6377"
+         rx="9.4444447"
+         ry="9.6938772" />
+      <text
+         xml:space="preserve"
+         style="font-size:150px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Segoe UI Emoji;-inkscape-font-specification:Segoe UI Emoji"
+         x="2045.0732"
+         y="-1838.0723"
+         id="text3271"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3273"
+           x="2045.0732"
+           y="-1838.0723">🎭</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:111.00000143%;letter-spacing:-0.04px;word-spacing:0px;writing-mode:tb-rl;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+         x="2021.6602"
+         y="-2088.4141"
+         id="text3275"
+         sodipodi:linespacing="111%"><tspan
+           style="font-size:50px;letter-spacing:-24.01002121px"
+           id="tspan4847"
+           sodipodi:role="line"
+           x="-2088.4141"
+           y="2021.6602">JOKER</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3279"
+         y="1696.8615"
+         x="-2218.3403"
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-24.01000023px;word-spacing:0px;writing-mode:tb-rl;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+         xml:space="preserve"
+         transform="scale(-1,-1)"><tspan
+           style="font-size:50px"
+           y="-2218.3403"
+           x="1696.8615"
+           id="tspan3281"
+           sodipodi:role="line">JOKER</tspan></text>
+    </g>
+    <g
+       transform="translate(-28.333361,590.66715)"
+       id="g5488"
+       inkscape:export-filename="C:\Users\Monika\SkyDrive\Work\SuperDevResBlog\Behance.net\Playing cards\8.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         ry="9.6938772"
+         rx="9.4444447"
+         y="-2497.6377"
+         x="250"
+         height="380"
+         width="255"
+         id="rect5490"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text5492"
+         y="-2254.9768"
+         x="326.15723"
+         style="font-size:150px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Segoe UI Emoji;-inkscape-font-specification:Segoe UI Emoji"
+         xml:space="preserve"><tspan
+           y="-2254.9768"
+           x="326.15723"
+           id="tspan5494"
+           sodipodi:role="line">♥</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text5496"
+         y="-2446.9629"
+         x="265.21094"
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+         xml:space="preserve"><tspan
+           y="-2446.9629"
+           x="265.21094"
+           id="tspan5498"
+           sodipodi:role="line">8</tspan></text>
+      <text
+         transform="scale(-1,-1)"
+         xml:space="preserve"
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+         x="-484.77942"
+         y="2168.3125"
+         id="text5500"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5502"
+           x="-484.77942"
+           y="2168.3125">8</tspan></text>
+    </g>
+    <g
+       id="g5504"
+       transform="translate(337.49998,590.66715)"
+       inkscape:export-filename="C:\Users\Monika\SkyDrive\Work\SuperDevResBlog\Behance.net\Playing cards\9.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="rect5506"
+         width="255"
+         height="380"
+         x="250"
+         y="-2497.6377"
+         rx="9.4444447"
+         ry="9.6938772" />
+      <text
+         xml:space="preserve"
+         style="font-size:150px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Segoe UI Emoji;-inkscape-font-specification:Segoe UI Emoji"
+         x="326.15723"
+         y="-2254.9768"
+         id="text5508"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5510"
+           x="326.15723"
+           y="-2254.9768">♥</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+         x="265.21094"
+         y="-2446.9629"
+         id="text5512"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5514"
+           x="265.21094"
+           y="-2446.9629">9</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text5516"
+         y="2168.3125"
+         x="-485.30676"
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+         xml:space="preserve"
+         transform="scale(-1,-1)"><tspan
+           y="2168.3125"
+           x="-485.30676"
+           id="tspan5518"
+           sodipodi:role="line">9</tspan></text>
+    </g>
+    <g
+       transform="translate(703.33332,590.66715)"
+       id="g5520"
+       inkscape:export-filename="C:\Users\Monika\SkyDrive\Work\SuperDevResBlog\Behance.net\Playing cards\10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         ry="9.6938772"
+         rx="9.4444447"
+         y="-2497.6377"
+         x="250"
+         height="380"
+         width="255"
+         id="rect5522"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text5524"
+         y="-2254.9768"
+         x="326.15723"
+         style="font-size:150px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Segoe UI Emoji;-inkscape-font-specification:Segoe UI Emoji"
+         xml:space="preserve"><tspan
+           y="-2254.9768"
+           x="326.15723"
+           id="tspan5526"
+           sodipodi:role="line">♥</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text5528"
+         y="-2446.9629"
+         x="265.21094"
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+         xml:space="preserve"><tspan
+           y="-2446.9629"
+           x="265.21094"
+           id="tspan5530"
+           sodipodi:role="line">10</tspan></text>
+      <text
+         transform="scale(-1,-1)"
+         xml:space="preserve"
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+         x="-491.39728"
+         y="2168.8926"
+         id="text5532"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5534"
+           x="-491.39728"
+           y="2168.8926">10</tspan></text>
+    </g>
+    <g
+       id="g5536"
+       transform="translate(1069.1667,590.66715)"
+       inkscape:export-filename="C:\Users\Monika\SkyDrive\Work\SuperDevResBlog\Behance.net\Playing cards\J.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="rect5538"
+         width="255"
+         height="380"
+         x="250"
+         y="-2497.6377"
+         rx="9.4444447"
+         ry="9.6938772" />
+      <text
+         xml:space="preserve"
+         style="font-size:150px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Segoe UI Emoji;-inkscape-font-specification:Segoe UI Emoji"
+         x="326.15723"
+         y="-2254.9768"
+         id="text5540"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5542"
+           x="326.15723"
+           y="-2254.9768">♥</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+         x="265.21094"
+         y="-2446.9629"
+         id="text5544"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5546"
+           x="265.21094"
+           y="-2446.9629">J</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text5548"
+         y="2168.3125"
+         x="-480.58704"
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+         xml:space="preserve"
+         transform="scale(-1,-1)"><tspan
+           y="2168.3125"
+           x="-480.58704"
+           id="tspan5550"
+           sodipodi:role="line">J</tspan></text>
+    </g>
+    <g
+       transform="translate(1435.0001,590.66715)"
+       id="g5552"
+       inkscape:export-filename="C:\Users\Monika\SkyDrive\Work\SuperDevResBlog\Behance.net\Playing cards\Q.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         ry="9.6938772"
+         rx="9.4444447"
+         y="-2497.6377"
+         x="250"
+         height="380"
+         width="255"
+         id="rect5554"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text5556"
+         y="-2254.9768"
+         x="326.15723"
+         style="font-size:150px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Segoe UI Emoji;-inkscape-font-specification:Segoe UI Emoji"
+         xml:space="preserve"><tspan
+           y="-2254.9768"
+           x="326.15723"
+           id="tspan5558"
+           sodipodi:role="line">♥</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text5560"
+         y="-2446.9629"
+         x="265.21094"
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+         xml:space="preserve"><tspan
+           y="-2446.9629"
+           x="265.21094"
+           id="tspan5562"
+           sodipodi:role="line">Q</tspan></text>
+      <text
+         transform="scale(-1,-1)"
+         xml:space="preserve"
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+         x="-495.58997"
+         y="2168.3125"
+         id="text5564"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5566"
+           x="-495.58997"
+           y="2168.3125">Q</tspan></text>
+    </g>
+    <g
+       id="g5568"
+       transform="translate(1800.8334,590.66715)"
+       inkscape:export-filename="C:\Users\Monika\SkyDrive\Work\SuperDevResBlog\Behance.net\Playing cards\K.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="rect5570"
+         width="255"
+         height="380"
+         x="250"
+         y="-2497.6377"
+         rx="9.4444447"
+         ry="9.6938772" />
+      <text
+         xml:space="preserve"
+         style="font-size:150px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Segoe UI Emoji;-inkscape-font-specification:Segoe UI Emoji"
+         x="326.15723"
+         y="-2254.9768"
+         id="text5572"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5574"
+           x="326.15723"
+           y="-2254.9768">♥</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+         x="265.21094"
+         y="-2446.9629"
+         id="text5576"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5578"
+           x="265.21094"
+           y="-2446.9629">K</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text5580"
+         y="2168.3125"
+         x="-494.16614"
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+         xml:space="preserve"
+         transform="scale(-1,-1)"><tspan
+           y="2168.3125"
+           x="-494.16614"
+           id="tspan5582"
+           sodipodi:role="line">K</tspan></text>
+    </g>
+    <g
+       transform="translate(-30.833416,99.834359)"
+       id="g5374"
+       inkscape:export-filename="C:\Users\Monika\SkyDrive\Work\SuperDevResBlog\Behance.net\Playing cards\Hearts\A.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="rect5376"
+         width="255"
+         height="380"
+         x="252.5"
+         y="-2497.6377"
+         rx="9.4444447"
+         ry="9.6938772" />
+      <text
+         xml:space="preserve"
+         style="font-size:150px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Segoe UI Emoji;-inkscape-font-specification:Segoe UI Emoji"
+         x="328.65723"
+         y="-2254.9768"
+         id="text5378"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5380"
+           x="328.65723"
+           y="-2254.9768">♥</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+         x="267.71094"
+         y="-2446.9629"
+         id="text5382"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5384"
+           x="267.71094"
+           y="-2446.9629">A</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text5386"
+         y="2168.3125"
+         x="-492.28918"
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+         xml:space="preserve"
+         transform="scale(-1,-1)"><tspan
+           y="2168.3125"
+           x="-492.28918"
+           id="tspan5388"
+           sodipodi:role="line">A</tspan></text>
+    </g>
+    <g
+       transform="translate(337.49991,99.834359)"
+       id="g5390"
+       inkscape:export-filename="C:\Users\Monika\SkyDrive\Work\SuperDevResBlog\Behance.net\Playing cards\Hearts\2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         ry="9.6938772"
+         rx="9.4444447"
+         y="-2497.6377"
+         x="250"
+         height="380"
+         width="255"
+         id="rect5392"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text5394"
+         y="-2254.9768"
+         x="326.15723"
+         style="font-size:150px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Segoe UI Emoji;-inkscape-font-specification:Segoe UI Emoji"
+         xml:space="preserve"><tspan
+           y="-2254.9768"
+           x="326.15723"
+           id="tspan5396"
+           sodipodi:role="line">♥</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text5398"
+         y="-2446.9629"
+         x="265.21094"
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+         xml:space="preserve"><tspan
+           y="-2446.9629"
+           x="265.21094"
+           id="tspan5400"
+           sodipodi:role="line">2</tspan></text>
+      <text
+         transform="scale(-1,-1)"
+         xml:space="preserve"
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+         x="-483.77747"
+         y="2168.3125"
+         id="text5402"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5404"
+           x="-483.77747"
+           y="2168.3125">2</tspan></text>
+    </g>
+    <g
+       transform="translate(120.83327,99.834359)"
+       id="g5406"
+       inkscape:export-filename="C:\Users\Monika\SkyDrive\Work\SuperDevResBlog\Behance.net\Playing cards\Hearts\3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="rect5408"
+         width="255"
+         height="380"
+         x="832.5"
+         y="-2497.6377"
+         rx="9.4444447"
+         ry="9.6938772" />
+      <text
+         xml:space="preserve"
+         style="font-size:150px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Segoe UI Emoji;-inkscape-font-specification:Segoe UI Emoji"
+         x="908.65723"
+         y="-2254.9768"
+         id="text5410"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5412"
+           x="908.65723"
+           y="-2254.9768">♥</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+         x="847.71094"
+         y="-2446.9629"
+         id="text5414"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5416"
+           x="847.71094"
+           y="-2446.9629">3</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text5418"
+         y="2168.3125"
+         x="-1066.1456"
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+         xml:space="preserve"
+         transform="scale(-1,-1)"><tspan
+           y="2168.3125"
+           x="-1066.1456"
+           id="tspan5420"
+           sodipodi:role="line">3</tspan></text>
+    </g>
+    <g
+       transform="translate(196.66659,99.834359)"
+       id="g5422"
+       inkscape:export-filename="C:\Users\Monika\SkyDrive\Work\SuperDevResBlog\Behance.net\Playing cards\Hearts\4.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         ry="9.6938772"
+         rx="9.4444447"
+         y="-2497.6377"
+         x="1122.5"
+         height="380"
+         width="255"
+         id="rect5424"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text5426"
+         y="-2254.9768"
+         x="1198.6572"
+         style="font-size:150px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Segoe UI Emoji;-inkscape-font-specification:Segoe UI Emoji"
+         xml:space="preserve"><tspan
+           y="-2254.9768"
+           x="1198.6572"
+           id="tspan5428"
+           sodipodi:role="line">♥</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text5430"
+         y="-2446.9629"
+         x="1137.7109"
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+         xml:space="preserve"><tspan
+           y="-2446.9629"
+           x="1137.7109"
+           id="tspan5432"
+           sodipodi:role="line">4</tspan></text>
+      <text
+         transform="scale(-1,-1)"
+         xml:space="preserve"
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+         x="-1356.172"
+         y="2168.3125"
+         id="text5434"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5436"
+           x="-1356.172"
+           y="2168.3125">4</tspan></text>
+    </g>
+    <g
+       id="g5438"
+       transform="translate(1435,99.834359)"
+       inkscape:export-filename="C:\Users\Monika\SkyDrive\Work\SuperDevResBlog\Behance.net\Playing cards\Hearts\5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="rect5440"
+         width="255"
+         height="380"
+         x="250"
+         y="-2497.6377"
+         rx="9.4444447"
+         ry="9.6938772" />
+      <text
+         xml:space="preserve"
+         style="font-size:150px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Segoe UI Emoji;-inkscape-font-specification:Segoe UI Emoji"
+         x="326.15723"
+         y="-2254.9768"
+         id="text5442"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5444"
+           x="326.15723"
+           y="-2254.9768">♥</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+         x="265.21094"
+         y="-2446.9629"
+         id="text5446"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5448"
+           x="265.21094"
+           y="-2446.9629">5</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text5450"
+         y="2168.3125"
+         x="-485.86047"
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+         xml:space="preserve"
+         transform="scale(-1,-1)"><tspan
+           y="2168.3125"
+           x="-485.86047"
+           id="tspan5452"
+           sodipodi:role="line">5</tspan></text>
+    </g>
+    <g
+       transform="translate(1800.8334,99.834359)"
+       id="g5454"
+       inkscape:export-filename="C:\Users\Monika\SkyDrive\Work\SuperDevResBlog\Behance.net\Playing cards\Hearts\6.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         ry="9.6938772"
+         rx="9.4444447"
+         y="-2497.6377"
+         x="250"
+         height="380"
+         width="255"
+         id="rect5456"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text5458"
+         y="-2254.9768"
+         x="326.15723"
+         style="font-size:150px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Segoe UI Emoji;-inkscape-font-specification:Segoe UI Emoji"
+         xml:space="preserve"><tspan
+           y="-2254.9768"
+           x="326.15723"
+           id="tspan5460"
+           sodipodi:role="line">♥</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text5462"
+         y="-2446.9629"
+         x="265.21094"
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+         xml:space="preserve"><tspan
+           y="-2446.9629"
+           x="265.21094"
+           id="tspan5464"
+           sodipodi:role="line">6</tspan></text>
+      <text
+         transform="scale(-1,-1)"
+         xml:space="preserve"
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+         x="-486.33508"
+         y="2168.3125"
+         id="text5466"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5468"
+           x="-486.33508"
+           y="2168.3125">6</tspan></text>
+    </g>
+    <g
+       id="g5470"
+       transform="translate(2166.6668,99.834359)"
+       inkscape:export-filename="C:\Users\Monika\SkyDrive\Work\SuperDevResBlog\Behance.net\Playing cards\Hearts\7.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="rect5472"
+         width="255"
+         height="380"
+         x="250"
+         y="-2497.6377"
+         rx="9.4444447"
+         ry="9.6938772" />
+      <text
+         xml:space="preserve"
+         style="font-size:150px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Segoe UI Emoji;-inkscape-font-specification:Segoe UI Emoji"
+         x="326.15723"
+         y="-2254.9768"
+         id="text5474"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5476"
+           x="326.15723"
+           y="-2254.9768">♥</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+         x="265.21094"
+         y="-2446.9629"
+         id="text5478"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5480"
+           x="265.21094"
+           y="-2446.9629">7</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text5482"
+         y="2168.3125"
+         x="-483.72473"
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+         xml:space="preserve"
+         transform="scale(-1,-1)"><tspan
+           y="2168.3125"
+           x="-483.72473"
+           id="tspan5484"
+           sodipodi:role="line">7</tspan></text>
+    </g>
+    <g
+       transform="translate(424.1667,175.66725)"
+       id="g5584"
+       inkscape:export-filename="C:\Users\Monika\SkyDrive\Work\SuperDevResBlog\Behance.net\Playing cards\Joker.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         ry="9.6938772"
+         rx="9.4444447"
+         y="-2082.6377"
+         x="1992.5"
+         height="380"
+         width="255"
+         id="rect5586"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text5588"
+         y="-1838.0723"
+         x="2045.0732"
+         style="font-size:150px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Segoe UI Emoji;-inkscape-font-specification:Segoe UI Emoji"
+         xml:space="preserve"><tspan
+           y="-1838.0723"
+           x="2045.0732"
+           id="tspan5590"
+           sodipodi:role="line">🎭</tspan></text>
+      <text
+         sodipodi:linespacing="111%"
+         id="text5592"
+         y="-2088.4141"
+         x="2021.6602"
+         style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:111.00000143%;letter-spacing:-0.04px;word-spacing:0px;writing-mode:tb-rl;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+         xml:space="preserve"><tspan
+           y="2021.6602"
+           x="-2088.4141"
+           sodipodi:role="line"
+           id="tspan5594"
+           style="font-size:50px;letter-spacing:-24.01002121px;fill:#ff0000">JOKER</tspan></text>
+      <text
+         transform="scale(-1,-1)"
+         xml:space="preserve"
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-24.01000023px;word-spacing:0px;writing-mode:tb-rl;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+         x="-2218.3403"
+         y="1696.8615"
+         id="text5596"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5598"
+           x="1696.8615"
+           y="-2218.3403"
+           style="font-size:50px;fill:#ff0000">JOKER</tspan></text>
+    </g>
+    <g
+       id="g5602"
+       transform="translate(-30.833416,1276.0839)"
+       inkscape:export-filename="C:\Users\Monika\SkyDrive\Work\SuperDevResBlog\Behance.net\Playing cards\Club\A.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         ry="9.6938772"
+         rx="9.4444447"
+         y="-2497.6377"
+         x="252.5"
+         height="380"
+         width="255"
+         id="rect5604"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text5606"
+         y="-2254.9768"
+         x="328.65723"
+         style="font-size:150px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Segoe UI Emoji;-inkscape-font-specification:Segoe UI Emoji"
+         xml:space="preserve"><tspan
+           y="-2254.9768"
+           x="328.65723"
+           id="tspan5608"
+           sodipodi:role="line">♣</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text5610"
+         y="-2446.9629"
+         x="267.71094"
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+         xml:space="preserve"><tspan
+           y="-2446.9629"
+           x="267.71094"
+           id="tspan5612"
+           sodipodi:role="line">A</tspan></text>
+      <text
+         transform="scale(-1,-1)"
+         xml:space="preserve"
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+         x="-492.28918"
+         y="2168.3125"
+         id="text5614"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5616"
+           x="-492.28918"
+           y="2168.3125">A</tspan></text>
+    </g>
+    <g
+       id="g5618"
+       transform="translate(337.49991,1276.0839)"
+       inkscape:export-filename="C:\Users\Monika\SkyDrive\Work\SuperDevResBlog\Behance.net\Playing cards\Club\2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="rect5620"
+         width="255"
+         height="380"
+         x="250"
+         y="-2497.6377"
+         rx="9.4444447"
+         ry="9.6938772" />
+      <text
+         xml:space="preserve"
+         style="font-size:150px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Segoe UI Emoji;-inkscape-font-specification:Segoe UI Emoji"
+         x="326.15723"
+         y="-2254.9768"
+         id="text5622"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5624"
+           x="326.15723"
+           y="-2254.9768">♣</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+         x="265.21094"
+         y="-2446.9629"
+         id="text5626"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5628"
+           x="265.21094"
+           y="-2446.9629">2</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text5630"
+         y="2168.3125"
+         x="-483.77747"
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+         xml:space="preserve"
+         transform="scale(-1,-1)"><tspan
+           y="2168.3125"
+           x="-483.77747"
+           id="tspan5632"
+           sodipodi:role="line">2</tspan></text>
+    </g>
+    <g
+       id="g5634"
+       transform="translate(120.83327,1276.0839)"
+       inkscape:export-filename="C:\Users\Monika\SkyDrive\Work\SuperDevResBlog\Behance.net\Playing cards\Club\3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         ry="9.6938772"
+         rx="9.4444447"
+         y="-2497.6377"
+         x="832.5"
+         height="380"
+         width="255"
+         id="rect5636"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text5638"
+         y="-2254.9768"
+         x="908.65723"
+         style="font-size:150px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Segoe UI Emoji;-inkscape-font-specification:Segoe UI Emoji"
+         xml:space="preserve"><tspan
+           y="-2254.9768"
+           x="908.65723"
+           id="tspan5640"
+           sodipodi:role="line">♣</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text5642"
+         y="-2446.9629"
+         x="847.71094"
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+         xml:space="preserve"><tspan
+           y="-2446.9629"
+           x="847.71094"
+           id="tspan5644"
+           sodipodi:role="line">3</tspan></text>
+      <text
+         transform="scale(-1,-1)"
+         xml:space="preserve"
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+         x="-1066.1456"
+         y="2168.3125"
+         id="text5646"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5648"
+           x="-1066.1456"
+           y="2168.3125">3</tspan></text>
+    </g>
+    <g
+       id="g5650"
+       transform="translate(196.66659,1276.0839)"
+       inkscape:export-filename="C:\Users\Monika\SkyDrive\Work\SuperDevResBlog\Behance.net\Playing cards\Club\4.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="rect5652"
+         width="255"
+         height="380"
+         x="1122.5"
+         y="-2497.6377"
+         rx="9.4444447"
+         ry="9.6938772" />
+      <text
+         xml:space="preserve"
+         style="font-size:150px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Segoe UI Emoji;-inkscape-font-specification:Segoe UI Emoji"
+         x="1198.6572"
+         y="-2254.9768"
+         id="text5654"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5656"
+           x="1198.6572"
+           y="-2254.9768">♣</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+         x="1137.7109"
+         y="-2446.9629"
+         id="text5658"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5660"
+           x="1137.7109"
+           y="-2446.9629">4</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text5662"
+         y="2168.3125"
+         x="-1356.172"
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+         xml:space="preserve"
+         transform="scale(-1,-1)"><tspan
+           y="2168.3125"
+           x="-1356.172"
+           id="tspan5664"
+           sodipodi:role="line">4</tspan></text>
+    </g>
+    <g
+       transform="translate(1435,1276.0839)"
+       id="g5666"
+       inkscape:export-filename="C:\Users\Monika\SkyDrive\Work\SuperDevResBlog\Behance.net\Playing cards\Club\5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         ry="9.6938772"
+         rx="9.4444447"
+         y="-2497.6377"
+         x="250"
+         height="380"
+         width="255"
+         id="rect5668"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text5670"
+         y="-2254.9768"
+         x="326.15723"
+         style="font-size:150px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Segoe UI Emoji;-inkscape-font-specification:Segoe UI Emoji"
+         xml:space="preserve"><tspan
+           y="-2254.9768"
+           x="326.15723"
+           id="tspan5672"
+           sodipodi:role="line">♣</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text5674"
+         y="-2446.9629"
+         x="265.21094"
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+         xml:space="preserve"><tspan
+           y="-2446.9629"
+           x="265.21094"
+           id="tspan5676"
+           sodipodi:role="line">5</tspan></text>
+      <text
+         transform="scale(-1,-1)"
+         xml:space="preserve"
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+         x="-485.86047"
+         y="2168.3125"
+         id="text5678"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5680"
+           x="-485.86047"
+           y="2168.3125">5</tspan></text>
+    </g>
+    <g
+       id="g5682"
+       transform="translate(1800.8334,1276.0839)"
+       inkscape:export-filename="C:\Users\Monika\SkyDrive\Work\SuperDevResBlog\Behance.net\Playing cards\Club\6.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="rect5684"
+         width="255"
+         height="380"
+         x="250"
+         y="-2497.6377"
+         rx="9.4444447"
+         ry="9.6938772" />
+      <text
+         xml:space="preserve"
+         style="font-size:150px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Segoe UI Emoji;-inkscape-font-specification:Segoe UI Emoji"
+         x="326.15723"
+         y="-2254.9768"
+         id="text5686"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5688"
+           x="326.15723"
+           y="-2254.9768">♣</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+         x="265.21094"
+         y="-2446.9629"
+         id="text5690"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5692"
+           x="265.21094"
+           y="-2446.9629">6</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text5694"
+         y="2168.3125"
+         x="-486.33508"
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+         xml:space="preserve"
+         transform="scale(-1,-1)"><tspan
+           y="2168.3125"
+           x="-486.33508"
+           id="tspan5696"
+           sodipodi:role="line">6</tspan></text>
+    </g>
+    <g
+       transform="translate(2166.6668,1276.0839)"
+       id="g5698"
+       inkscape:export-filename="C:\Users\Monika\SkyDrive\Work\SuperDevResBlog\Behance.net\Playing cards\Club\7.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         ry="9.6938772"
+         rx="9.4444447"
+         y="-2497.6377"
+         x="250"
+         height="380"
+         width="255"
+         id="rect5700"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text5702"
+         y="-2254.9768"
+         x="326.15723"
+         style="font-size:150px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Segoe UI Emoji;-inkscape-font-specification:Segoe UI Emoji"
+         xml:space="preserve"><tspan
+           y="-2254.9768"
+           x="326.15723"
+           id="tspan5704"
+           sodipodi:role="line">♣</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text5706"
+         y="-2446.9629"
+         x="265.21094"
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+         xml:space="preserve"><tspan
+           y="-2446.9629"
+           x="265.21094"
+           id="tspan5708"
+           sodipodi:role="line">7</tspan></text>
+      <text
+         transform="scale(-1,-1)"
+         xml:space="preserve"
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+         x="-483.72473"
+         y="2168.3125"
+         id="text5710"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5712"
+           x="-483.72473"
+           y="2168.3125">7</tspan></text>
+    </g>
+    <g
+       id="g5716"
+       transform="translate(-28.333361,1766.9167)"
+       inkscape:export-filename="C:\Users\Monika\SkyDrive\Work\SuperDevResBlog\Behance.net\Playing cards\8.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="rect5718"
+         width="255"
+         height="380"
+         x="250"
+         y="-2497.6377"
+         rx="9.4444447"
+         ry="9.6938772" />
+      <text
+         xml:space="preserve"
+         style="font-size:150px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Segoe UI Emoji;-inkscape-font-specification:Segoe UI Emoji"
+         x="326.15723"
+         y="-2254.9768"
+         id="text5720"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5722"
+           x="326.15723"
+           y="-2254.9768">♣</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+         x="265.21094"
+         y="-2446.9629"
+         id="text5724"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5726"
+           x="265.21094"
+           y="-2446.9629">8</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text5728"
+         y="2168.3125"
+         x="-484.77942"
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+         xml:space="preserve"
+         transform="scale(-1,-1)"><tspan
+           y="2168.3125"
+           x="-484.77942"
+           id="tspan5730"
+           sodipodi:role="line">8</tspan></text>
+    </g>
+    <g
+       transform="translate(337.49998,1766.9167)"
+       id="g5732"
+       inkscape:export-filename="C:\Users\Monika\SkyDrive\Work\SuperDevResBlog\Behance.net\Playing cards\9.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         ry="9.6938772"
+         rx="9.4444447"
+         y="-2497.6377"
+         x="250"
+         height="380"
+         width="255"
+         id="rect5734"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text5736"
+         y="-2254.9768"
+         x="326.15723"
+         style="font-size:150px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Segoe UI Emoji;-inkscape-font-specification:Segoe UI Emoji"
+         xml:space="preserve"><tspan
+           y="-2254.9768"
+           x="326.15723"
+           id="tspan5738"
+           sodipodi:role="line">♣</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text5740"
+         y="-2446.9629"
+         x="265.21094"
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+         xml:space="preserve"><tspan
+           y="-2446.9629"
+           x="265.21094"
+           id="tspan5742"
+           sodipodi:role="line">9</tspan></text>
+      <text
+         transform="scale(-1,-1)"
+         xml:space="preserve"
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+         x="-485.30676"
+         y="2168.3125"
+         id="text5744"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5746"
+           x="-485.30676"
+           y="2168.3125">9</tspan></text>
+    </g>
+    <g
+       id="g5748"
+       transform="translate(703.33332,1766.9167)"
+       inkscape:export-filename="C:\Users\Monika\SkyDrive\Work\SuperDevResBlog\Behance.net\Playing cards\10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="rect5750"
+         width="255"
+         height="380"
+         x="250"
+         y="-2497.6377"
+         rx="9.4444447"
+         ry="9.6938772" />
+      <text
+         xml:space="preserve"
+         style="font-size:150px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Segoe UI Emoji;-inkscape-font-specification:Segoe UI Emoji"
+         x="326.15723"
+         y="-2254.9768"
+         id="text5752"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5754"
+           x="326.15723"
+           y="-2254.9768">♣</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+         x="265.21094"
+         y="-2446.9629"
+         id="text5756"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5758"
+           x="265.21094"
+           y="-2446.9629">10</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text5760"
+         y="2168.8926"
+         x="-491.39728"
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+         xml:space="preserve"
+         transform="scale(-1,-1)"><tspan
+           y="2168.8926"
+           x="-491.39728"
+           id="tspan5762"
+           sodipodi:role="line">10</tspan></text>
+    </g>
+    <g
+       transform="translate(1069.1667,1766.9167)"
+       id="g5764"
+       inkscape:export-filename="C:\Users\Monika\SkyDrive\Work\SuperDevResBlog\Behance.net\Playing cards\J.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         ry="9.6938772"
+         rx="9.4444447"
+         y="-2497.6377"
+         x="250"
+         height="380"
+         width="255"
+         id="rect5766"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text5768"
+         y="-2254.9768"
+         x="326.15723"
+         style="font-size:150px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Segoe UI Emoji;-inkscape-font-specification:Segoe UI Emoji"
+         xml:space="preserve"><tspan
+           y="-2254.9768"
+           x="326.15723"
+           id="tspan5770"
+           sodipodi:role="line">♣</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text5772"
+         y="-2446.9629"
+         x="265.21094"
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+         xml:space="preserve"><tspan
+           y="-2446.9629"
+           x="265.21094"
+           id="tspan5774"
+           sodipodi:role="line">J</tspan></text>
+      <text
+         transform="scale(-1,-1)"
+         xml:space="preserve"
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+         x="-480.58704"
+         y="2168.3125"
+         id="text5776"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5778"
+           x="-480.58704"
+           y="2168.3125">J</tspan></text>
+    </g>
+    <g
+       id="g5780"
+       transform="translate(1435.0001,1766.9167)"
+       inkscape:export-filename="C:\Users\Monika\SkyDrive\Work\SuperDevResBlog\Behance.net\Playing cards\Q.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="rect5782"
+         width="255"
+         height="380"
+         x="250"
+         y="-2497.6377"
+         rx="9.4444447"
+         ry="9.6938772" />
+      <text
+         xml:space="preserve"
+         style="font-size:150px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Segoe UI Emoji;-inkscape-font-specification:Segoe UI Emoji"
+         x="326.15723"
+         y="-2254.9768"
+         id="text5784"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5786"
+           x="326.15723"
+           y="-2254.9768">♣</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+         x="265.21094"
+         y="-2446.9629"
+         id="text5788"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5790"
+           x="265.21094"
+           y="-2446.9629">Q</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text5792"
+         y="2168.3125"
+         x="-495.58997"
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+         xml:space="preserve"
+         transform="scale(-1,-1)"><tspan
+           y="2168.3125"
+           x="-495.58997"
+           id="tspan5794"
+           sodipodi:role="line">Q</tspan></text>
+    </g>
+    <g
+       transform="translate(1800.8334,1766.9167)"
+       id="g5796"
+       inkscape:export-filename="C:\Users\Monika\SkyDrive\Work\SuperDevResBlog\Behance.net\Playing cards\K.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         ry="9.6938772"
+         rx="9.4444447"
+         y="-2497.6377"
+         x="250"
+         height="380"
+         width="255"
+         id="rect5798"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text5800"
+         y="-2254.9768"
+         x="326.15723"
+         style="font-size:150px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Segoe UI Emoji;-inkscape-font-specification:Segoe UI Emoji"
+         xml:space="preserve"><tspan
+           y="-2254.9768"
+           x="326.15723"
+           id="tspan5802"
+           sodipodi:role="line">♣</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text5804"
+         y="-2446.9629"
+         x="265.21094"
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+         xml:space="preserve"><tspan
+           y="-2446.9629"
+           x="265.21094"
+           id="tspan5806"
+           sodipodi:role="line">K</tspan></text>
+      <text
+         transform="scale(-1,-1)"
+         xml:space="preserve"
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+         x="-494.16614"
+         y="2168.3125"
+         id="text5808"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5810"
+           x="-494.16614"
+           y="2168.3125">K</tspan></text>
+    </g>
+    <g
+       id="g5812"
+       transform="translate(424.1667,1351.9168)"
+       inkscape:export-filename="C:\Users\Monika\SkyDrive\Work\SuperDevResBlog\Behance.net\Playing cards\Joker.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="rect5814"
+         width="255"
+         height="380"
+         x="1992.5"
+         y="-2082.6377"
+         rx="9.4444447"
+         ry="9.6938772" />
+      <text
+         xml:space="preserve"
+         style="font-size:150px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Segoe UI Emoji;-inkscape-font-specification:Segoe UI Emoji"
+         x="2045.0732"
+         y="-1838.0723"
+         id="text5816"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5818"
+           x="2045.0732"
+           y="-1838.0723">🎭</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:111.00000143%;letter-spacing:-0.04px;word-spacing:0px;writing-mode:tb-rl;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+         x="2021.6602"
+         y="-2088.4141"
+         id="text5820"
+         sodipodi:linespacing="111%"><tspan
+           style="font-size:50px;letter-spacing:-24.01002121px"
+           id="tspan5822"
+           sodipodi:role="line"
+           x="-2088.4141"
+           y="2021.6602">JOKER</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text5824"
+         y="1696.8615"
+         x="-2218.3403"
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-24.01000023px;word-spacing:0px;writing-mode:tb-rl;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+         xml:space="preserve"
+         transform="scale(-1,-1)"><tspan
+           style="font-size:50px"
+           y="-2218.3403"
+           x="1696.8615"
+           id="tspan5826"
+           sodipodi:role="line">JOKER</tspan></text>
+    </g>
+    <g
+       transform="translate(-30.833509,2452.3334)"
+       id="g5830"
+       inkscape:export-filename="C:\Users\Monika\SkyDrive\Work\SuperDevResBlog\Behance.net\Playing cards\Diamond\A.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="rect5832"
+         width="255"
+         height="380"
+         x="252.5"
+         y="-2497.6377"
+         rx="9.4444447"
+         ry="9.6938772" />
+      <text
+         xml:space="preserve"
+         style="font-size:150px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Segoe UI Emoji;-inkscape-font-specification:Segoe UI Emoji"
+         x="328.65723"
+         y="-2254.9768"
+         id="text5834"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5836"
+           x="328.65723"
+           y="-2254.9768">♦</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+         x="267.71094"
+         y="-2446.9629"
+         id="text5838"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5840"
+           x="267.71094"
+           y="-2446.9629">A</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text5842"
+         y="2168.3125"
+         x="-492.28918"
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+         xml:space="preserve"
+         transform="scale(-1,-1)"><tspan
+           y="2168.3125"
+           x="-492.28918"
+           id="tspan5844"
+           sodipodi:role="line">A</tspan></text>
+    </g>
+    <g
+       transform="translate(337.49989,2452.3334)"
+       id="g5846"
+       inkscape:export-filename="C:\Users\Monika\SkyDrive\Work\SuperDevResBlog\Behance.net\Playing cards\Diamond\2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         ry="9.6938772"
+         rx="9.4444447"
+         y="-2497.6377"
+         x="250"
+         height="380"
+         width="255"
+         id="rect5848"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text5850"
+         y="-2254.9768"
+         x="326.15723"
+         style="font-size:150px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Segoe UI Emoji;-inkscape-font-specification:Segoe UI Emoji"
+         xml:space="preserve"><tspan
+           y="-2254.9768"
+           x="326.15723"
+           id="tspan5852"
+           sodipodi:role="line">♦</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text5854"
+         y="-2446.9629"
+         x="265.21094"
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+         xml:space="preserve"><tspan
+           y="-2446.9629"
+           x="265.21094"
+           id="tspan5856"
+           sodipodi:role="line">2</tspan></text>
+      <text
+         transform="scale(-1,-1)"
+         xml:space="preserve"
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+         x="-483.77747"
+         y="2168.3125"
+         id="text5858"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5860"
+           x="-483.77747"
+           y="2168.3125">2</tspan></text>
+    </g>
+    <g
+       transform="translate(120.83324,2452.3334)"
+       id="g5862"
+       inkscape:export-filename="C:\Users\Monika\SkyDrive\Work\SuperDevResBlog\Behance.net\Playing cards\Diamond\3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="rect5864"
+         width="255"
+         height="380"
+         x="832.5"
+         y="-2497.6377"
+         rx="9.4444447"
+         ry="9.6938772" />
+      <text
+         xml:space="preserve"
+         style="font-size:150px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Segoe UI Emoji;-inkscape-font-specification:Segoe UI Emoji"
+         x="908.65723"
+         y="-2254.9768"
+         id="text5866"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5868"
+           x="908.65723"
+           y="-2254.9768">♦</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+         x="847.71094"
+         y="-2446.9629"
+         id="text5870"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5872"
+           x="847.71094"
+           y="-2446.9629">3</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text5874"
+         y="2168.3125"
+         x="-1066.1456"
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+         xml:space="preserve"
+         transform="scale(-1,-1)"><tspan
+           y="2168.3125"
+           x="-1066.1456"
+           id="tspan5876"
+           sodipodi:role="line">3</tspan></text>
+    </g>
+    <g
+       transform="translate(196.6667,2452.3334)"
+       id="g5878"
+       inkscape:export-filename="C:\Users\Monika\SkyDrive\Work\SuperDevResBlog\Behance.net\Playing cards\Diamond\4.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         ry="9.6938772"
+         rx="9.4444447"
+         y="-2497.6377"
+         x="1122.5"
+         height="380"
+         width="255"
+         id="rect5880"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text5882"
+         y="-2254.9768"
+         x="1198.6572"
+         style="font-size:150px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Segoe UI Emoji;-inkscape-font-specification:Segoe UI Emoji"
+         xml:space="preserve"><tspan
+           y="-2254.9768"
+           x="1198.6572"
+           id="tspan5884"
+           sodipodi:role="line">♦</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text5886"
+         y="-2446.9629"
+         x="1137.7109"
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+         xml:space="preserve"><tspan
+           y="-2446.9629"
+           x="1137.7109"
+           id="tspan5888"
+           sodipodi:role="line">4</tspan></text>
+      <text
+         transform="scale(-1,-1)"
+         xml:space="preserve"
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+         x="-1356.172"
+         y="2168.3125"
+         id="text5890"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5892"
+           x="-1356.172"
+           y="2168.3125">4</tspan></text>
+    </g>
+    <g
+       id="g5894"
+       transform="translate(1435.0002,2452.3334)"
+       inkscape:export-filename="C:\Users\Monika\SkyDrive\Work\SuperDevResBlog\Behance.net\Playing cards\Diamond\5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="rect5896"
+         width="255"
+         height="380"
+         x="250"
+         y="-2497.6377"
+         rx="9.4444447"
+         ry="9.6938772" />
+      <text
+         xml:space="preserve"
+         style="font-size:150px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Segoe UI Emoji;-inkscape-font-specification:Segoe UI Emoji"
+         x="326.15723"
+         y="-2254.9768"
+         id="text5898"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5900"
+           x="326.15723"
+           y="-2254.9768">♦</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+         x="265.21094"
+         y="-2446.9629"
+         id="text5902"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5904"
+           x="265.21094"
+           y="-2446.9629">5</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text5906"
+         y="2168.3125"
+         x="-485.86047"
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+         xml:space="preserve"
+         transform="scale(-1,-1)"><tspan
+           y="2168.3125"
+           x="-485.86047"
+           id="tspan5908"
+           sodipodi:role="line">5</tspan></text>
+    </g>
+    <g
+       transform="translate(1800.8335,2452.3334)"
+       id="g5910"
+       inkscape:export-filename="C:\Users\Monika\SkyDrive\Work\SuperDevResBlog\Behance.net\Playing cards\Diamond\6.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         ry="9.6938772"
+         rx="9.4444447"
+         y="-2497.6377"
+         x="250"
+         height="380"
+         width="255"
+         id="rect5912"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text5914"
+         y="-2254.9768"
+         x="326.15723"
+         style="font-size:150px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Segoe UI Emoji;-inkscape-font-specification:Segoe UI Emoji"
+         xml:space="preserve"><tspan
+           y="-2254.9768"
+           x="326.15723"
+           id="tspan5916"
+           sodipodi:role="line">♦</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text5918"
+         y="-2446.9629"
+         x="265.21094"
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+         xml:space="preserve"><tspan
+           y="-2446.9629"
+           x="265.21094"
+           id="tspan5920"
+           sodipodi:role="line">6</tspan></text>
+      <text
+         transform="scale(-1,-1)"
+         xml:space="preserve"
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+         x="-486.33508"
+         y="2168.3125"
+         id="text5922"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5924"
+           x="-486.33508"
+           y="2168.3125">6</tspan></text>
+    </g>
+    <g
+       id="g5926"
+       transform="translate(2166.6669,2452.3334)"
+       inkscape:export-filename="C:\Users\Monika\SkyDrive\Work\SuperDevResBlog\Behance.net\Playing cards\Diamond\7.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="rect5928"
+         width="255"
+         height="380"
+         x="250"
+         y="-2497.6377"
+         rx="9.4444447"
+         ry="9.6938772" />
+      <text
+         xml:space="preserve"
+         style="font-size:150px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Segoe UI Emoji;-inkscape-font-specification:Segoe UI Emoji"
+         x="326.15723"
+         y="-2254.9768"
+         id="text5930"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5932"
+           x="326.15723"
+           y="-2254.9768">♦</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+         x="265.21094"
+         y="-2446.9629"
+         id="text5934"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5936"
+           x="265.21094"
+           y="-2446.9629">7</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text5938"
+         y="2168.3125"
+         x="-483.72473"
+         style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+         xml:space="preserve"
+         transform="scale(-1,-1)"><tspan
+           y="2168.3125"
+           x="-483.72473"
+           id="tspan5940"
+           sodipodi:role="line">7</tspan></text>
+    </g>
+    <g
+       id="g6464"
+       transform="translate(-53.333353,143.00001)">
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\Monika\SkyDrive\Work\SuperDevResBlog\Behance.net\Playing cards\8.png"
+         id="g5944"
+         transform="translate(24.999969,2800.1662)">
+        <rect
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="rect5946"
+           width="255"
+           height="380"
+           x="250"
+           y="-2497.6377"
+           rx="9.4444447"
+           ry="9.6938772" />
+        <text
+           xml:space="preserve"
+           style="font-size:150px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Segoe UI Emoji;-inkscape-font-specification:Segoe UI Emoji"
+           x="326.15723"
+           y="-2254.9768"
+           id="text5948"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan5950"
+             x="326.15723"
+             y="-2254.9768">♦</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+           x="265.21094"
+           y="-2446.9629"
+           id="text5952"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan5954"
+             x="265.21094"
+             y="-2446.9629">8</tspan></text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text5956"
+           y="2168.3125"
+           x="-484.77942"
+           style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+           xml:space="preserve"
+           transform="scale(-1,-1)"><tspan
+             y="2168.3125"
+             x="-484.77942"
+             id="tspan5958"
+             sodipodi:role="line">8</tspan></text>
+      </g>
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\Monika\SkyDrive\Work\SuperDevResBlog\Behance.net\Playing cards\9.png"
+         transform="translate(390.83327,2800.1662)"
+         id="g5960">
+        <rect
+           ry="9.6938772"
+           rx="9.4444447"
+           y="-2497.6377"
+           x="250"
+           height="380"
+           width="255"
+           id="rect5962"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text5964"
+           y="-2254.9768"
+           x="326.15723"
+           style="font-size:150px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Segoe UI Emoji;-inkscape-font-specification:Segoe UI Emoji"
+           xml:space="preserve"><tspan
+             y="-2254.9768"
+             x="326.15723"
+             id="tspan5966"
+             sodipodi:role="line">♦</tspan></text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text5968"
+           y="-2446.9629"
+           x="265.21094"
+           style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+           xml:space="preserve"><tspan
+             y="-2446.9629"
+             x="265.21094"
+             id="tspan5970"
+             sodipodi:role="line">9</tspan></text>
+        <text
+           transform="scale(-1,-1)"
+           xml:space="preserve"
+           style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+           x="-485.30676"
+           y="2168.3125"
+           id="text5972"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan5974"
+             x="-485.30676"
+             y="2168.3125">9</tspan></text>
+      </g>
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\Monika\SkyDrive\Work\SuperDevResBlog\Behance.net\Playing cards\10.png"
+         id="g5976"
+         transform="translate(756.66659,2800.1662)">
+        <rect
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="rect5978"
+           width="255"
+           height="380"
+           x="250"
+           y="-2497.6377"
+           rx="9.4444447"
+           ry="9.6938772" />
+        <text
+           xml:space="preserve"
+           style="font-size:150px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Segoe UI Emoji;-inkscape-font-specification:Segoe UI Emoji"
+           x="326.15723"
+           y="-2254.9768"
+           id="text5980"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan5982"
+             x="326.15723"
+             y="-2254.9768">♦</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+           x="265.21094"
+           y="-2446.9629"
+           id="text5984"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan5986"
+             x="265.21094"
+             y="-2446.9629">10</tspan></text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text5988"
+           y="2168.8926"
+           x="-491.39728"
+           style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+           xml:space="preserve"
+           transform="scale(-1,-1)"><tspan
+             y="2168.8926"
+             x="-491.39728"
+             id="tspan5990"
+             sodipodi:role="line">10</tspan></text>
+      </g>
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\Monika\SkyDrive\Work\SuperDevResBlog\Behance.net\Playing cards\J.png"
+         transform="translate(1122.5,2800.1662)"
+         id="g5992">
+        <rect
+           ry="9.6938772"
+           rx="9.4444447"
+           y="-2497.6377"
+           x="250"
+           height="380"
+           width="255"
+           id="rect5994"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text5996"
+           y="-2254.9768"
+           x="326.15723"
+           style="font-size:150px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Segoe UI Emoji;-inkscape-font-specification:Segoe UI Emoji"
+           xml:space="preserve"><tspan
+             y="-2254.9768"
+             x="326.15723"
+             id="tspan5998"
+             sodipodi:role="line">♦</tspan></text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text6000"
+           y="-2446.9629"
+           x="265.21094"
+           style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+           xml:space="preserve"><tspan
+             y="-2446.9629"
+             x="265.21094"
+             id="tspan6002"
+             sodipodi:role="line">J</tspan></text>
+        <text
+           transform="scale(-1,-1)"
+           xml:space="preserve"
+           style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+           x="-480.58704"
+           y="2168.3125"
+           id="text6004"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan6006"
+             x="-480.58704"
+             y="2168.3125">J</tspan></text>
+      </g>
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\Monika\SkyDrive\Work\SuperDevResBlog\Behance.net\Playing cards\Q.png"
+         id="g6008"
+         transform="translate(1488.3333,2800.1662)">
+        <rect
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="rect6010"
+           width="255"
+           height="380"
+           x="250"
+           y="-2497.6377"
+           rx="9.4444447"
+           ry="9.6938772" />
+        <text
+           xml:space="preserve"
+           style="font-size:150px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Segoe UI Emoji;-inkscape-font-specification:Segoe UI Emoji"
+           x="326.15723"
+           y="-2254.9768"
+           id="text6012"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan6014"
+             x="326.15723"
+             y="-2254.9768">♦</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+           x="265.21094"
+           y="-2446.9629"
+           id="text6016"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan6018"
+             x="265.21094"
+             y="-2446.9629">Q</tspan></text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text6020"
+           y="2168.3125"
+           x="-495.58997"
+           style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+           xml:space="preserve"
+           transform="scale(-1,-1)"><tspan
+             y="2168.3125"
+             x="-495.58997"
+             id="tspan6022"
+             sodipodi:role="line">Q</tspan></text>
+      </g>
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\Monika\SkyDrive\Work\SuperDevResBlog\Behance.net\Playing cards\K.png"
+         transform="translate(1854.1667,2800.1662)"
+         id="g6024">
+        <rect
+           ry="9.6938772"
+           rx="9.4444447"
+           y="-2497.6377"
+           x="250"
+           height="380"
+           width="255"
+           id="rect6026"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text6028"
+           y="-2254.9768"
+           x="326.15723"
+           style="font-size:150px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Segoe UI Emoji;-inkscape-font-specification:Segoe UI Emoji"
+           xml:space="preserve"><tspan
+             y="-2254.9768"
+             x="326.15723"
+             id="tspan6030"
+             sodipodi:role="line">♦</tspan></text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text6032"
+           y="-2446.9629"
+           x="265.21094"
+           style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+           xml:space="preserve"><tspan
+             y="-2446.9629"
+             x="265.21094"
+             id="tspan6034"
+             sodipodi:role="line">K</tspan></text>
+        <text
+           transform="scale(-1,-1)"
+           xml:space="preserve"
+           style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+           x="-494.16614"
+           y="2168.3125"
+           id="text6036"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan6038"
+             x="-494.16614"
+             y="2168.3125">K</tspan></text>
+      </g>
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\Monika\SkyDrive\Work\SuperDevResBlog\Behance.net\Playing cards\Joker.png"
+         id="g6040"
+         transform="translate(477.50008,2385.1663)">
+        <rect
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="rect6042"
+           width="255"
+           height="380"
+           x="1992.5"
+           y="-2082.6377"
+           rx="9.4444447"
+           ry="9.6938772" />
+        <text
+           xml:space="preserve"
+           style="font-size:150px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Segoe UI Emoji;-inkscape-font-specification:Segoe UI Emoji"
+           x="2045.0732"
+           y="-1838.0723"
+           id="text6044"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan6046"
+             x="2045.0732"
+             y="-1838.0723">🎭</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:111.00000143%;letter-spacing:-0.04px;word-spacing:0px;writing-mode:tb-rl;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+           x="2021.6602"
+           y="-2088.4141"
+           id="text6048"
+           sodipodi:linespacing="111%"><tspan
+             style="font-size:50px;letter-spacing:-24.01002121px;fill:#ff0000"
+             id="tspan6050"
+             sodipodi:role="line"
+             x="-2088.4141"
+             y="2021.6602">JOKER</tspan></text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text6052"
+           y="1696.8615"
+           x="-2218.3403"
+           style="font-size:54px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-24.01000023px;word-spacing:0px;writing-mode:tb-rl;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Noticia Text;-inkscape-font-specification:Noticia Text"
+           xml:space="preserve"
+           transform="scale(-1,-1)"><tspan
+             style="font-size:50px;fill:#ff0000"
+             y="-2218.3403"
+             x="1696.8615"
+             id="tspan6054"
+             sodipodi:role="line">JOKER</tspan></text>
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:175px;font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter3927);font-family:Open Sans Extrabold;-inkscape-font-specification:'Open Sans Extrabold, Ultra-Bold'"
+       x="476.09174"
+       y="-4614.3037"
+       id="text3755"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3757"
+         x="476.09174"
+         y="-4614.3037"
+         style="font-size:175px;font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#fff6d5;font-family:Open Sans Extrabold;-inkscape-font-specification:'Open Sans Extrabold, Ultra-Bold'">Flat Playing Cards set</tspan></text>
+    <g
+       id="g6522"
+       transform="translate(-53.333538,8.5451597e-4)">
+      <g
+         transform="translate(7.5000625,-5.333641e-4)"
+         id="g8707">
+        <rect
+           ry="9.3291655"
+           rx="8.914938"
+           y="-4252.3223"
+           x="274.64828"
+           height="365.70334"
+           width="240.70334"
+           id="rect6937"
+           style="fill:#3498db;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:14.29666996;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <rect
+           style="opacity:0.45;fill:url(#pattern8705);fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:14.29699993;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="rect8515"
+           width="240.70334"
+           height="365.70334"
+           x="274.64844"
+           y="-4252.3223"
+           rx="8.914938"
+           ry="9.3291655" />
+      </g>
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\Monika\SkyDrive\Work\SuperDevResBlog\Behance.net\Playing cards\Back\Emerald.png"
+         transform="translate(-290.66698,-2.0005334)"
+         id="g8713">
+        <rect
+           style="fill:#2ecc71;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:14.29666996;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="rect8685"
+           width="240.70334"
+           height="365.70334"
+           x="938.64832"
+           y="-4250.3223"
+           rx="8.914938"
+           ry="9.3291655" />
+        <rect
+           ry="9.3291655"
+           rx="8.914938"
+           y="-4250.3223"
+           x="938.6485"
+           height="365.70334"
+           width="240.70334"
+           id="rect8687"
+           style="opacity:0.45;fill:url(#pattern8711);fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:14.29699993;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      </g>
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\Monika\SkyDrive\Work\SuperDevResBlog\Behance.net\Playing cards\Back\Sun Flower.png"
+         transform="translate(594.66706,1.9994666)"
+         id="g8719">
+        <rect
+           ry="9.3291655"
+           rx="8.914938"
+           y="-4254.3223"
+           x="1516.6483"
+           height="365.70334"
+           width="240.70334"
+           id="rect8691"
+           style="fill:#f1c40f;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:14.29666996;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <rect
+           style="opacity:0.45;fill:url(#pattern8717);fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:14.29699993;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="rect8693"
+           width="240.70334"
+           height="365.70334"
+           x="1516.6484"
+           y="-4254.3223"
+           rx="8.914938"
+           ry="9.3291655" />
+      </g>
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\Monika\SkyDrive\Work\SuperDevResBlog\Behance.net\Playing cards\Back\Pomegranate.png"
+         transform="translate(390.4999,-2.0003808)"
+         id="g8723">
+        <rect
+           style="fill:#e74c3c;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:14.29666996;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="rect8697"
+           width="240.70334"
+           height="365.70334"
+           x="2086.6484"
+           y="-4250.3223"
+           rx="8.914938"
+           ry="9.3291655" />
+        <rect
+           ry="9.3291655"
+           rx="8.914938"
+           y="-4250.3223"
+           x="2086.6487"
+           height="365.70334"
+           width="240.70334"
+           id="rect8699"
+           style="opacity:0.45;fill:url(#pattern8701);fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:14.29699993;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      </g>
+    </g>
+    <g
+       id="g3100"
+       transform="matrix(1.8225,0,0,1.8225,1013.3446,-5238.1544)">
+      <path
+         d="m 327.06668,563.62884 c -4.19907,4.71405 -0.35578,16.0617 -4.87345,20.47135 -4.51767,4.40965 -15.769,0.29291 -20.58327,4.37668 -4.81427,4.08377 -2.58767,15.85587 -7.67508,19.59386 -5.08741,3.738 -15.65631,-1.90456 -20.99207,1.46945 -5.33577,3.37401 -4.7692,15.34143 -10.32733,18.33502 -5.55813,2.99358 -15.23887,-4.06497 -20.99229,-1.46639 -5.75341,2.59858 -6.85789,14.52838 -12.77856,16.7193 -5.92066,2.19091 -14.52483,-6.14625 -20.58391,-4.37368 -6.05907,1.77257 -8.81311,13.43256 -14.98107,14.77815 -6.16796,1.3456 -13.52809,-8.1079 -19.77489,-7.19584 -6.2468,0.91207 -10.5968,12.07529 -16.89201,12.54937 -6.2952,0.47409 -12.26803,-9.91174 -18.58097,-9.87794 -6.31295,0.0338 -12.17423,10.48298 -18.47415,10.07633 -6.29992,-0.40665 -10.76919,-11.52266 -17.0254,-12.36778 -6.256211,-0.84513 -13.514697,8.68663 -19.696713,7.40716 -6.182016,-1.27948 -9.060746,-12.90931 -15.138451,-14.6169 -6.077705,-1.7076 -14.592116,6.72121 -20.5359,4.59382 -5.943785,-2.12739 -7.17594,-14.04468 -12.956846,-16.58151 -5.780907,-2.53683 -15.385519,4.62497 -20.975383,1.69107 -5.5898644,-2.93391 -5.1514621,-14.9067 -10.5230507,-18.22339 -5.3715885,-3.31669 -15.8794603,2.43872 -21.0066033,-1.24459 -5.127143,-3.68332 -3.026717,-15.47858 -7.884436,-19.51057 -4.857719,-4.03199 -16.064325,0.20499 -20.628954,-4.15604 -4.564628,-4.36102 -0.84306,-15.74917 -5.092359,-20.41798 -4.2493,-4.66882 -15.936518,-2.03273 -19.849786,-6.98659 -3.913269,-4.95386 1.357006,-15.71324 -2.201166,-20.928 -3.558172,-5.21477 -15.498523,-4.23089 -18.684264,-9.68115 -3.185741,-5.45027 3.53066,-15.37146 0.732871,-21.03068 -2.797789,-5.65922 -14.758869,-6.34668 -17.155079,-12.18728 -2.3962,-5.8406 5.6356,-14.73049 3.65265,-20.72401 -1.98295,-5.99352 -13.73195,-8.33896 -15.29198,-14.4562 -1.56004,-6.11725 7.63083,-13.80281 6.50132,-20.01398 -1.12952,-6.21116 -12.43775,-10.16892 -13.13125,-16.44374 -0.69349,-6.27483 9.47755,-12.60648 9.22346,-18.9144 -0.2541,-6.30791 -10.90147,-11.80095 -10.71493,-18.11123 0.18654,-6.31028 11.1398,-11.16477 11.76607,-17.44666 0.62627,-6.28189 -9.153,-13.2033 -8.09005,-19.42621 1.06294,-6.2229 12.58522,-9.50575 14.07967,-15.63935 1.49444,-6.1336 -7.22638,-14.34866 -5.30772,-20.36307 1.91866,-6.01441 13.78569,-7.66172 16.11922,-13.52764 2.333537,-5.86592 -5.1591,-15.21473 -2.42207,-20.90358 2.737038,-5.68886 14.717839,-5.66856 17.84504,-11.15263 3.127201,-5.48407 -2.991414,-15.78468 0.510718,-21.03724 3.502132,-5.25257 15.363514,-3.56507 19.223515,-8.56055 3.860002,-4.99547 -0.765499,-16.04738 3.433566,-20.76143 4.199066,-4.71404 15.710159,-1.39218 20.227831,-5.80183 4.517672,-4.40965 1.475315,-15.99775 6.289584,-20.08152 4.814269,-4.08378 15.751022,0.80779 20.838433,-2.93021 5.0874116,-3.73799 3.687414,-15.63673 9.023182,-19.01074 5.33576802,-3.37402 15.485311,2.99205 21.043441,-0.002 5.558129,-2.99359 5.827741,-14.97137 11.581154,-17.56995 5.753412,-2.59859 14.918196,5.11807 20.838861,2.92716 5.920665,-2.19092 7.854638,-14.01461 13.913711,-15.78718 6.059074,-1.77258 14.060716,7.14447 20.228677,5.79888 6.167962,-1.3456 9.728655,-12.78507 15.975455,-13.69713 6.246802,-0.91206 12.929562,9.03182 19.224762,8.55774 6.29521,-0.47409 11.41332,-11.30668 17.72626,-11.34047 6.31294,-0.0338 11.54674,10.74337 17.84666,11.15002 6.29992,0.40665 12.87583,-9.60821 19.13203,-8.76309 6.25621,0.84512 9.93919,12.24581 16.1212,13.52529 6.18202,1.27947 14.08772,-7.72274 20.16543,-6.01515 6.0777,1.7076 8.13817,13.50991 14.08195,15.6373 5.94378,2.12739 15.02542,-5.68695 20.80633,-3.15012 5.7809,2.53683 6.17875,14.51104 11.76861,17.44494 5.58987,2.93391 15.67066,-3.54047 21.04225,-0.22378 5.37159,3.31669 4.09908,15.22974 9.22622,18.91305 5.12714,3.68331 16.01089,-1.32508 20.86861,2.70691 4.85772,4.03199 1.93962,15.652 6.50424,20.01303 4.56463,4.36102 16.0395,0.9161 20.2888,5.58491 4.2493,4.66882 -0.2576,15.76962 3.65566,20.72348 3.91327,4.95386 15.75591,3.13945 19.31408,8.35422 3.55817,5.21477 -2.4498,15.5803 0.73594,21.03057 3.18574,5.45027 15.16564,5.3017 17.96343,10.96091 2.79779,5.65922 -4.59432,15.08773 -2.19812,20.92833 2.39621,5.84059 14.2802,7.36075 16.26315,13.35427 1.98295,5.99352 -6.64941,14.30149 -5.08938,20.41873 1.56003,6.11724 13.1168,9.27654 14.24632,15.4877 1.12951,6.21117 -8.57509,13.23689 -7.88159,19.51171 0.69349,6.27483 11.6981,11.01177 11.9522,17.31968 0.2541,6.30792 -10.33385,11.91465 -10.52039,18.22493 -0.18654,6.31027 10.05172,12.53265 9.42545,18.81455 -0.62627,6.28189 -11.89148,10.3605 -12.95443,16.5834 -1.06294,6.2229 8.20969,13.80962 6.71525,19.94322 -1.49445,6.13359 -13.21766,8.6047 -15.13632,14.6191 -1.91866,6.01441 6.20786,14.8178 3.87433,20.68372 -2.33353,5.86592 -14.28657,6.68141 -17.0236,12.37026 -2.73703,5.68885 4.08521,15.53756 0.95801,21.02163 -3.1272,5.48406 -15.0774,4.62808 -18.57953,9.88065 -3.50214,5.25256 1.88304,15.9549 -1.97696,20.95037 -3.86,4.99547 -15.57478,2.48468 -19.77384,7.19872 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0.3"
+         inkscape:flatsided="false"
+         sodipodi:arg2="0.79749772"
+         sodipodi:arg1="0.72768455"
+         sodipodi:r2="265.60727"
+         sodipodi:r1="254.98299"
+         sodipodi:cy="394.02884"
+         sodipodi:cx="136.66667"
+         sodipodi:sides="45"
+         id="path5196"
+         style="opacity:0.55;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         sodipodi:type="star"
+         transform="matrix(0.55866983,0,0,0.55866983,161.43804,421.27111)" />
+      <g
+         transform="translate(-40.85186,18.682611)"
+         id="g4361">
+        <text
+           xml:space="preserve"
+           style="font-size:72px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#fff6d5;fill-opacity:1;stroke:none;font-family:Great Vibes;-inkscape-font-specification:Great Vibes Bold"
+           x="176.96059"
+           y="702.89996"
+           id="text4343"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4345"
+             x="176.96059"
+             y="702.89996">Freebie</tspan></text>
+      </g>
+      <g
+         id="g2995"
+         transform="matrix(1.953125,0,0,1.953125,191.12895,573.47593)">
+        <text
+           xml:space="preserve"
+           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff7f2a;fill-opacity:1;stroke:none;font-family:Segoe UI;-inkscape-font-specification:Segoe UI"
+           x="35.799999"
+           y="27.4"
+           id="text3785"
+           sodipodi:linespacing="125%"
+           inkscape:export-filename="C:\Users\Monika\SkyDrive\SuperDevRes Logo\super-dev-resources-logo-big-bulb.png"
+           inkscape:export-xdpi="92.374237"
+           inkscape:export-ydpi="92.374237"><tspan
+             sodipodi:role="line"
+             id="tspan3787"
+             x="35.799999"
+             y="27.4" /></text>
+        <text
+           xml:space="preserve"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Segoe UI Emoji;-inkscape-font-specification:Segoe UI Emoji"
+           x="37.333332"
+           y="25.666668"
+           id="text3804"
+           sodipodi:linespacing="125%"
+           inkscape:export-filename="C:\Users\Monika\SkyDrive\SuperDevRes Logo\super-dev-resources-logo-big-bulb.png"
+           inkscape:export-xdpi="92.374237"
+           inkscape:export-ydpi="92.374237"><tspan
+             sodipodi:role="line"
+             id="tspan3806"
+             x="37.333332"
+             y="25.666668" /></text>
+        <text
+           xml:space="preserve"
+           style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#f39c12;fill-opacity:1;stroke:none;font-family:Segoe UI Emoji;-inkscape-font-specification:Segoe UI Emoji"
+           x="-3.1097949"
+           y="35.434521"
+           id="text3771"
+           sodipodi:linespacing="125%"
+           inkscape:export-filename="C:\Users\Monika\SkyDrive\SuperDevRes Logo\bulb_2.png"
+           inkscape:export-xdpi="92.374237"
+           inkscape:export-ydpi="92.374237"><tspan
+             sodipodi:role="line"
+             id="tspan3773"
+             x="-3.1097949"
+             y="35.434521"
+             rotate="353 0">💡</tspan></text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text3816"
+           y="-3.999999"
+           x="-62.747543"
+           style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#f39c12;fill-opacity:1;stroke:none;font-family:Segoe UI Emoji;-inkscape-font-specification:Segoe UI Emoji"
+           xml:space="preserve"
+           transform="scale(-1,1)"
+           inkscape:export-filename="C:\Users\Monika\SkyDrive\SuperDevRes Logo\bulb_2.png"
+           inkscape:export-xdpi="92.374237"
+           inkscape:export-ydpi="92.374237"><tspan
+             style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#f39c12;fill-opacity:1;font-family:Segoe UI Emoji;-inkscape-font-specification:Segoe UI Emoji"
+             rotate="15 0"
+             y="-3.999999"
+             x="-62.747543"
+             id="tspan3818"
+             sodipodi:role="line">💪</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#f39c12;fill-opacity:1;stroke:none;font-family:Segoe UI Emoji;-inkscape-font-specification:Segoe UI Emoji"
+           x="-8.5232325"
+           y="15.933334"
+           id="text3808"
+           sodipodi:linespacing="125%"
+           inkscape:export-filename="C:\Users\Monika\SkyDrive\SuperDevRes Logo\bulb_2.png"
+           inkscape:export-xdpi="92.374237"
+           inkscape:export-ydpi="92.374237"><tspan
+             sodipodi:role="line"
+             id="tspan3810"
+             x="-8.5232325"
+             y="15.933334"
+             rotate="342 0"
+             style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#f39c12;fill-opacity:1;font-family:Segoe UI Emoji;-inkscape-font-specification:Segoe UI Emoji">💪</tspan></text>
+        <path
+           sodipodi:nodetypes="aaaaaaa"
+           inkscape:connector-curvature="0"
+           id="rect3781-1"
+           d="m 28.869,-11.978563 c -0.254538,-0.397894 -0.640886,-1.016401 -0.335499,-1.376745 0.757036,-0.893271 2.49381,-0.332934 3.503048,0.260764 1.840669,1.082799 3.918538,3.255297 3.519589,5.3532383 C 35.47038,-7.2903332 34.886929,-6.9044761 34.43,-6.9485959 33.247028,-7.0628203 32.839661,-8.7205407 31.961,-9.5208066 30.98761,-10.40735 29.578495,-10.86948 28.869,-11.978563 z"
+           inkscape:transform-center-y="2.1312755"
+           style="fill:#ffffff;fill-rule:evenodd;stroke:none"
+           inkscape:transform-center-x="-2.3882375"
+           inkscape:export-filename="C:\Users\Monika\SkyDrive\SuperDevRes Logo\bulb_2.png"
+           inkscape:export-xdpi="92.374237"
+           inkscape:export-ydpi="92.374237" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:45px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:0.2;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Open Sans Light;-inkscape-font-specification:'Open Sans Light, Light'"
+       x="2430.1111"
+       y="1086.5516"
+       id="text3330"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3332"
+         x="2430.1111"
+         y="1086.5516">SuperDevResources.com</tspan></text>
+  </g>
+</svg>

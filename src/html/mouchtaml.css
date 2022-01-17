@@ -1,0 +1,72 @@
+.card {
+  border: 1px solid black;
+  width: 100px;
+  margin: 2px;
+}
+
+.stack {
+  display: inline-block;
+  margin: 2px;
+}
+
+.moustaches {
+  display: flex;
+  min-height: 156px;
+}
+
+.moustaches .left {
+  width: 55%;
+  display: flex;
+  justify-content: right;
+  margin-right: 62px;
+  flex-grow: 1;
+}
+
+.moustaches .right {
+  margin-left: 62px;
+  width: 55%;
+  flex-direction: row-reverse;
+  justify-content: left;
+  display: flex;
+  flex-grow: 1;
+}
+
+.center {
+  display: inline-block;
+  margin-right: 10px;
+  margin-left: 10px;
+  width: 102px;
+  flex-shrink: 0;
+}
+
+#main {
+  text-align: center;
+}
+
+#main > div {
+  display: inline-block;
+  text-align: left;
+  width: 100%;
+}
+
+.line {
+  display: flex;
+}
+
+.line .left {
+  width: 55%;
+  flex-shrink: 1;
+  text-align: right;
+}
+
+.line .right {
+  justify-content: flex-end;
+  display: flex;
+  flex-direction: row-reverse;
+  width: 55%;
+  flex-shrink: 1;
+}
+
+.dragged_over {
+  background: rgba(255, 0, 0, 0.2);
+}

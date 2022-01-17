@@ -1,0 +1,5 @@
+(executables
+ (names main)
+ (libraries  js_of_ocaml-lwt lwd tyxml-lwd model)
+ (modes js)
+ (preprocess (pps js_of_ocaml-ppx)))
