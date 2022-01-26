@@ -23,7 +23,12 @@ type stack = card list
 
 type line = stack * stack * stack
 
-type state
+type state = {
+  moustache : stack * stack;
+  board : line * line * line * line;
+  stage : int;
+}
+(* type state *)
 
 val list_of_4 : 'a * 'a * 'a * 'a -> 'a list
 
@@ -87,9 +92,15 @@ val shuffle : card list -> card list
 
 val create_state : unit -> state
 
+val create_state_filled : int -> state
+
 val next_stage : state -> state
 
 val mapi_4 :
   (line_coordinate -> 'a -> 'b) -> 'a * 'a * 'a * 'a -> 'b * 'b * 'b * 'b
 
 val map4 : ('a -> 'b) -> 'a * 'a * 'a * 'a -> 'b * 'b * 'b * 'b
+
+val list_next_state : state -> state list
+
+val solve : state -> bool

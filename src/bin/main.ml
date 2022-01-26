@@ -4,7 +4,20 @@ open Tyxml_lwd
 
 let js = Js.string
 
-let state = Lwd.var @@ Model.create_state ()
+(* let state = Lwd.var @@ Model.create_state () (\* _filled 5 *\) *)
+
+let history = Lwd.var [ Model.create_state () ]
+
+let current_state =
+  let open Lwd_infix in
+  let$ history = Lwd.get history in
+  match history with [] -> Model.create_state () | a :: _ -> a
+
+let set_state new_state = Lwd.set history (new_state :: Lwd.peek history)
+
+let undo () =
+  Lwd.set history
+  @@ match Lwd.peek history with [] -> [] | [ a ] -> [ a ] | _ :: q -> q
 
 (* let holded_card = ref None *)
 
@@ -59,7 +72,7 @@ let div_of_stack ~coord stack =
   let horiz_coord =
     match coord with Model.Moustache c -> c | Board (_, c) -> c
   in
-  let l = List.map (fun c -> img_of_card ~coord c) stack in
+  let l = List.rev @@ List.map (fun c -> img_of_card ~coord c) stack in
   let x = Lwd.var false in
   let a = Lwd.get x in
   let class_ =
@@ -71,6 +84,8 @@ let div_of_stack ~coord stack =
     | Model.Left -> [ "stack"; "left" ]
     | Model.Right -> [ "stack"; "right" ]
   in
+  let open Lwd_infix in
+  let$* current_state = current_state in
   Html.div
     ~a:
       [
@@ -82,7 +97,7 @@ let div_of_stack ~coord stack =
                if
                  Model.check_move
                    (!holded_coord, Model.Stack coord)
-                   (Lwd.peek state)
+                   current_state
                then Lwd.set x true;
                false);
         (* Html.a_ondragover @@ Lwd.pure *)
@@ -101,12 +116,12 @@ let div_of_stack ~coord stack =
                if
                  Model.check_move
                    (!holded_coord, Model.Stack coord)
-                   (Lwd.peek state)
+                   current_state
                then
-                 Lwd.set state
+                 set_state
                    (Model.do_move
                       (!holded_coord, Model.Stack coord)
-                      (Lwd.peek state));
+                      current_state);
                false);
       ]
     l
@@ -124,6 +139,8 @@ let div_of_line ~coord ((left, center, right) : Model.line) =
   and right = div_of_stack ~coord:(Board (coord, Right)) right in
   let x = Lwd.var false in
   let a = Lwd.get x in
+  let open Lwd_infix in
+  let$* current_state = current_state in
   let class_ =
     let open Lwd_infix in
     let$ a = a in
@@ -139,7 +156,7 @@ let div_of_line ~coord ((left, center, right) : Model.line) =
              if
                Model.check_move
                  (!holded_coord, Model.Center coord)
-                 (Lwd.peek state)
+                 current_state
              then Lwd.set x true;
              false);
       Html.a_ondrop @@ Lwd.pure
@@ -148,12 +165,12 @@ let div_of_line ~coord ((left, center, right) : Model.line) =
              if
                Model.check_move
                  (!holded_coord, Model.Center coord)
-                 (Lwd.peek state)
+                 current_state
              then
-               Lwd.set state
+               set_state
                  (Model.do_move
                     (!holded_coord, Model.Center coord)
-                    (Lwd.peek state));
+                    current_state);
              false);
     ]
   in
@@ -175,16 +192,30 @@ let div_of_board state =
 (*   | (_, _) -> _ *)
 
 let button () =
+  let open Lwd_infix in
+  let$* current_state = current_state in
   Html.button
     ~a:
       [
         Html.a_onclick @@ Lwd.pure
         @@ Some
              (fun _ ->
-               Lwd.set state (Model.next_stage (Lwd.peek state));
+               set_state (Model.next_stage current_state);
                false);
       ]
     [ Html.txt @@ Lwd.pure "Next stage" ]
+
+let button_undo () =
+  Html.button
+    ~a:
+      [
+        Html.a_onclick @@ Lwd.pure
+        @@ Some
+             (fun _ ->
+               undo ();
+               false);
+      ]
+    [ Html.txt @@ Lwd.pure "Undo" ]
 
 let onload _ =
   let main =
@@ -194,15 +225,51 @@ let onload _ =
   in
   let open Lwd_infix in
   let moustaches =
-    let$* state = Lwd.get state in
+    let$* state = current_state in
     let moustaches = Model.get_moustaches state in
     div_of_moustaches moustaches
   in
   let board =
-    let$* state = Lwd.get state in
+    let$* state = current_state in
     div_of_board state
   in
-  let doc = Html.div [ moustaches; board; button () ] in
+  (* let winning_txt = *)
+  (*   let string = *)
+  (*     let$ state = current_state in *)
+  (*     if Model.solve state then "Possible to win" else "Impossible to win" *)
+  (*   in *)
+  (*   Html.div ~a:[] [ Html.txt string ] *)
+  (* in *)
+  let has_next_move =
+    let txt =
+      let$ state = current_state in
+      match Model.list_next_state state with
+      | [] -> "There is no more move"
+      | _ -> "You can continue"
+    in
+    Html.div
+      ~a:[ Html.a_class @@ Lwd.pure [ "has-next-move" ] ]
+      [ Html.txt txt ]
+  in
+  let stage_number =
+    let txt =
+      let$ state = current_state in
+      Printf.sprintf "You are at stage number %d" state.stage
+    in
+    Html.div ~a:[] [ Html.txt txt ]
+  in
+  let doc =
+    Html.div
+      [
+        moustaches;
+        board;
+        button () (* ; txt *);
+        has_next_move;
+        button_undo ();
+        stage_number;
+        (* winning_txt; *)
+      ]
+  in
   (*let root = Lwd.observe (Lwdom.to_fragment doc) in*)
   let (_ : Lwdom.Scheduler.job) = Lwdom.Scheduler.append_to_dom doc main in
   Js._false

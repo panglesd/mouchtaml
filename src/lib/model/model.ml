@@ -210,7 +210,7 @@ let pop_card (s_coord : stack_coordinate) state =
       (c, { state with board })
 
 let push_card (coord : coordinate) (card, state) =
-  Printf.printf "Pushing %s\n" (string_of_card card);
+  (* Printf.printf "Pushing %s\n" (string_of_card card); *)
   match coord with
   | Stack (Moustache Left) ->
       let m1, m2 = state.moustache in
@@ -237,6 +237,10 @@ let do_move ((s_coord, coord) as m) state =
   if check_move m state then state |> pop_card s_coord |> push_card coord
   else failwith "move impossible"
 
+let do_move_opt ((s_coord, coord) as m) state =
+  if check_move m state then Some (state |> pop_card s_coord |> push_card coord)
+  else None
+
 let _ = ()
 
 let next_stack_coordinate (stack_coordinate : stack_coordinate)
@@ -251,6 +255,9 @@ let next_stack_coordinate (stack_coordinate : stack_coordinate)
 
 let first_coordinate ~include_moustache =
   if include_moustache then Moustache Left else Board (One, Left)
+
+let list_product l1 l2 =
+  List.concat_map (fun e -> List.map (fun f -> (e, f)) l2) l1
 
 let deck =
   let all_numbers =
@@ -307,12 +314,78 @@ let create_state () =
   print_state state;
   state
 
-let next_stage state =
-  let collect_deck, board =
-    fold_left_map_4
-      (fun acc (l1, c, l2) -> (l1 @ l2 @ acc, ([], c, [])))
-      [] state.board
+let create_state_filled n =
+  Random.self_init ();
+
+  let all_numbers =
+    [
+      Ace;
+      Two;
+      Three;
+      Four;
+      Five;
+      Six;
+      Seven;
+      Height;
+      Nine;
+      Ten;
+      Jack;
+      Queen;
+      King;
+    ]
+  and all_colors = [ Spades; Heart; Diamonds; Clubs ]
+  and all_colors4 = (Spades, Heart, Diamonds, Clubs) in
+  let first_numbers, last_numbers =
+    let rec get l i =
+      match l with
+      | [] -> ([], [])
+      | l when i = 0 -> ([], l)
+      | a :: q ->
+          let x, y = get q (i - 1) in
+          (a :: x, y)
+    in
+    get all_numbers n
   in
+  let deck = list_product last_numbers all_colors in
+  let c1, c2, c3, c4 =
+    map4 (fun c -> List.map (fun n -> (n, c)) first_numbers) all_colors4
+  in
+  let state =
+    {
+      moustache = ([], []);
+      board =
+        ( ([], List.rev c1, []),
+          ([], List.rev c2, []),
+          ([], List.rev c3, []),
+          ([], List.rev c4, []) );
+      stage = 1;
+    }
+  in
+  let deck = shuffle deck in
+  let has_empty_center (_, c, _) = List.length c = 0 in
+  let _, state =
+    List.fold_left
+      (fun (coord, state) card ->
+        match (is_ace card, coord) with
+        | true, Board (v, _)
+          when has_empty_center @@ get_line_at_coordinate state v ->
+            (coord, push_card (Center v) (card, state))
+        | _ ->
+            ( next_stack_coordinate coord ~include_moustache:true,
+              push_card (Stack coord) (card, state) ))
+      (first_coordinate ~include_moustache:true, state)
+      deck
+  in
+  print_state state;
+  state
+
+let collect_deck state =
+  fold_left_map_4
+    (fun acc (l1, c, l2) -> (l1 @ l2 @ acc, ([], c, [])))
+    [] state.board
+
+let next_stage state =
+  let collect_deck, board = collect_deck state in
   let state = { state with board; stage = state.stage + 1 } in
   let _, state =
     List.fold_left
@@ -323,3 +396,78 @@ let next_stage state =
       collect_deck
   in
   state
+
+let list_line_coordinate = [ One; Two; Three; Four ]
+
+let list_horizontal_coordinate = [ Left; Right ]
+
+let list_stack_coordinate =
+  List.map (fun c -> Moustache c) list_horizontal_coordinate
+  @ List.map
+      (fun c -> Board c)
+      (list_product list_line_coordinate list_horizontal_coordinate)
+
+let list_coordinate =
+  List.map (fun c -> Center c) list_line_coordinate
+  @ List.map (fun c -> Stack c) list_stack_coordinate
+
+let list_move = list_product list_stack_coordinate list_coordinate
+
+let list_next_state state =
+  List.filter_map (fun move -> do_move_opt move state) list_move
+
+let is_a_win state =
+  let collected_deck, _ = collect_deck state in
+  let m1, m2 = get_moustaches state in
+  match m1 @ m2 @ collected_deck with [] -> true | _ -> false
+
+(* type state_value = Winning | Losing | Proba of float | In_progress *)
+
+type game = Direct_win | Unwinning_in of int
+
+let htbl = Hashtbl.create 10
+
+exception Winning
+
+let solve state =
+  let rec solve state steps =
+    match Hashtbl.find_opt htbl state with
+    | None ->
+        if is_a_win state then raise Winning
+          (* Hashtbl.add htbl state Winning; *)
+          (* true *)
+        else (
+          Hashtbl.add htbl state (Unwinning_in steps);
+          (* Printf.printf "Solving hash %d\n" (Hashtbl.hash state); *)
+          let list_next_state = list_next_state state in
+          try
+            let _ = List.map (fun s -> solve s (steps - 1)) list_next_state in
+            false
+          with Winning ->
+            Hashtbl.add htbl state Direct_win;
+            true
+          (* let res = List.exists (fun a -> a) outcome in *)
+          (* Hashtbl.add htbl state res; *)
+          (* res *))
+    | Some Direct_win -> raise Winning
+    | Some (Unwinning_in i) when i < steps -> (
+        Hashtbl.add htbl state (Unwinning_in steps);
+        (* Printf.printf "Solving hash %d\n" (Hashtbl.hash state); *)
+        let list_next_state = list_next_state state in
+        try
+          let _ = List.map (fun s -> solve s (steps - 1)) list_next_state in
+          false
+        with Winning ->
+          Hashtbl.add htbl state Direct_win;
+          true)
+    | Some (Unwinning_in _) -> false
+  in
+  try
+    let res = solve state 10 in
+    Printf.printf "Size of the hashtable: %d\n"
+      (Hashtbl.stats htbl).num_bindings;
+    res
+  with Winning ->
+    Printf.printf "Size of the hashtable: %d\n"
+      (Hashtbl.stats htbl).num_bindings;
+    true
