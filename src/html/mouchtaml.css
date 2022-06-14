@@ -88,3 +88,17 @@
 .has-next-move:hover {
   opacity: 1;
 }
+
+.bravo {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  top: 0;
+  text-align: center;
+  padding-top: 20%;
+  background: rgba(255,0,0,0.5);
+  font-size: 4em;
+  color: yellowgreen;
+  font-weight: bold;
+}

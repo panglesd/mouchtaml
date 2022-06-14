@@ -64,9 +64,7 @@ type state = {
 }
 
 let map4 f (a, b, c, d) = (f a, f b, f c, f d)
-
 let iter4 f n = ignore @@ map4 f n
-
 let list_of_4 (a, b, c, d) = [ a; b; c; d ]
 
 let fold_left_map_4 f acc (a, b, c, d) =
@@ -118,7 +116,6 @@ let get_line_at_coordinate state (v_coord : line_coordinate) =
 type horizontal_coordinate = Left | Right
 
 let invert h = match h with Left -> Right | Right -> Left
-
 let get_center_from_line (_, c, _) = c
 
 let get_center_at_coordinate state v_coord =
@@ -233,14 +230,27 @@ let push_card (coord : coordinate) (card, state) =
       let board = set state.board i (l1, card :: center, l2) in
       { state with board }
 
-let do_move ((s_coord, coord) as m) state =
-  if check_move m state then state |> pop_card s_coord |> push_card coord
-  else failwith "move impossible"
-
-let do_move_opt ((s_coord, coord) as m) state =
+let do_move_opt ((s_coord, coord) as m : move) state =
   if check_move m state then Some (state |> pop_card s_coord |> push_card coord)
   else None
 
+let do_move m state =
+  match do_move_opt m state with
+  | Some s -> s
+  | None -> failwith "move impossible"
+
+let do_move_i_opt m i state =
+  let moves = List.init i (fun _ -> m) in
+  List.fold_left
+    (fun state move -> Option.bind state (do_move_opt move))
+    (Some state) moves
+
+let do_move_i m i state =
+  match do_move_i_opt m i state with
+  | Some s -> s
+  | None -> failwith "move impossible"
+
+let check_move_i m i state = Option.is_some @@ do_move_i_opt m i state
 let _ = ()
 
 let next_stack_coordinate (stack_coordinate : stack_coordinate)
@@ -311,7 +321,7 @@ let create_state () =
       (first_coordinate ~include_moustache:true, state)
       deck
   in
-  print_state state;
+  (* print_state state; *)
   state
 
 let create_state_filled n =
@@ -386,6 +396,7 @@ let collect_deck state =
 
 let next_stage state =
   let collect_deck, board = collect_deck state in
+  let collect_deck = shuffle collect_deck in
   let state = { state with board; stage = state.stage + 1 } in
   let _, state =
     List.fold_left
@@ -398,7 +409,6 @@ let next_stage state =
   state
 
 let list_line_coordinate = [ One; Two; Three; Four ]
-
 let list_horizontal_coordinate = [ Left; Right ]
 
 let list_stack_coordinate =
@@ -413,6 +423,10 @@ let list_coordinate =
 
 let list_move = list_product list_stack_coordinate list_coordinate
 
+let list_mounting_move =
+  list_product list_stack_coordinate
+    (List.map (fun c -> Center c) list_line_coordinate)
+
 let list_next_state state =
   List.filter_map (fun move -> do_move_opt move state) list_move
 
@@ -423,51 +437,59 @@ let is_a_win state =
 
 (* type state_value = Winning | Losing | Proba of float | In_progress *)
 
-type game = Direct_win | Unwinning_in of int
+type game = Winning | Losing
 
 let htbl = Hashtbl.create 10
 
-exception Winning
+let rec mount_all state =
+  match
+    List.find_map (fun move -> do_move_opt move state) list_mounting_move
+  with
+  | Some state -> mount_all state
+  | None -> state
 
 let solve state =
-  let rec solve state steps =
-    match Hashtbl.find_opt htbl state with
-    | None ->
-        if is_a_win state then raise Winning
-          (* Hashtbl.add htbl state Winning; *)
-          (* true *)
-        else (
-          Hashtbl.add htbl state (Unwinning_in steps);
-          (* Printf.printf "Solving hash %d\n" (Hashtbl.hash state); *)
-          let list_next_state = list_next_state state in
-          try
-            let _ = List.map (fun s -> solve s (steps - 1)) list_next_state in
-            false
-          with Winning ->
-            Hashtbl.add htbl state Direct_win;
-            true
-          (* let res = List.exists (fun a -> a) outcome in *)
-          (* Hashtbl.add htbl state res; *)
-          (* res *))
-    | Some Direct_win -> raise Winning
-    | Some (Unwinning_in i) when i < steps -> (
-        Hashtbl.add htbl state (Unwinning_in steps);
-        (* Printf.printf "Solving hash %d\n" (Hashtbl.hash state); *)
-        let list_next_state = list_next_state state in
-        try
-          let _ = List.map (fun s -> solve s (steps - 1)) list_next_state in
-          false
-        with Winning ->
-          Hashtbl.add htbl state Direct_win;
-          true)
-    | Some (Unwinning_in _) -> false
+  let proccessed = Hashtbl.create 10 in
+  let rec solve state =
+    let state = mount_all state in
+    if Hashtbl.mem proccessed state then None
+    else (
+      Hashtbl.add proccessed state ();
+      match Hashtbl.find_opt htbl state with
+      | None ->
+          let res = process state in
+          Option.iter (Hashtbl.add htbl state) res;
+          res
+      | Some Winning -> Some Winning
+      | Some Losing -> Some Losing)
+  and process state =
+    if is_a_win state then (
+      Hashtbl.add htbl state Winning;
+      Some Winning)
+    else
+      let list_next_state = list_next_state state in
+      match
+        List.fold_left
+          (fun acc state ->
+            match acc with
+            | Some Winning -> Some Winning
+            | None -> (
+                match solve state with
+                | Some Winning -> Some Winning
+                | _ -> None)
+            | Some Losing -> solve state)
+          (Some Losing) list_next_state
+      with
+      | Some f as res ->
+          Hashtbl.add htbl state f;
+          res
+      | _ as res -> res
   in
-  try
-    let res = solve state 10 in
-    Printf.printf "Size of the hashtable: %d\n"
-      (Hashtbl.stats htbl).num_bindings;
-    res
-  with Winning ->
-    Printf.printf "Size of the hashtable: %d\n"
-      (Hashtbl.stats htbl).num_bindings;
-    true
+  let res = solve state in
+  Printf.printf "Size of the hashtable: %d\n" (Hashtbl.stats htbl).num_bindings;
+  match res with
+  | Some Winning -> true
+  | Some Losing -> false
+  | None ->
+      Hashtbl.add htbl state Losing;
+      false

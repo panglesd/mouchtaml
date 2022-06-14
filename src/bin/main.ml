@@ -22,6 +22,7 @@ let undo () =
 (* let holded_card = ref None *)
 
 let holded_coord = ref Model.(Moustache Left)
+let holded_coord_iter = ref 0
 
 let string_of_color (color : Model.color) =
   match color with
@@ -29,6 +30,13 @@ let string_of_color (color : Model.color) =
   | Model.Spades -> "Spades"
   | Model.Diamonds -> "Diamonds"
   | Model.Clubs -> "Clubs"
+
+let string_of_color_small (color : Model.color) =
+  match color with
+  | Model.Heart -> "h"
+  | Model.Spades -> "s"
+  | Model.Diamonds -> "d"
+  | Model.Clubs -> "c"
 
 let string_of_number (number : Model.number) =
   match number with
@@ -48,8 +56,9 @@ let string_of_number (number : Model.number) =
 
 let img_of_card ?coord ((n, c) as _card : Model.card) =
   let src, alt =
-    let cs = string_of_color c and ns = string_of_number n in
-    ( Lwd.pure @@ "../assets/cards/" ^ cs ^ "/" ^ ns ^ ".png",
+    let cs = string_of_color_small c and ns = string_of_number n in
+    ( (* Lwd.pure @@ "../assets/cards/" ^ cs ^ "/" ^ ns ^ ".png" *)
+      Lwd.pure @@ "../assets/cards/jc_cards/" ^ ns ^ cs ^ ".gif",
       Lwd.pure @@ ns ^ " of " ^ cs )
   in
   Html.img
@@ -62,7 +71,9 @@ let img_of_card ?coord ((n, c) as _card : Model.card) =
              (fun _ ->
                (* holded_card := Some card; *)
                (match coord with
-               | Some coord -> holded_coord := coord
+               | Some (coord, i) ->
+                   holded_coord := coord;
+                   holded_coord_iter := i
                | None -> ());
                true);
       ]
@@ -72,7 +83,9 @@ let div_of_stack ~coord stack =
   let horiz_coord =
     match coord with Model.Moustache c -> c | Board (_, c) -> c
   in
-  let l = List.rev @@ List.map (fun c -> img_of_card ~coord c) stack in
+  let l =
+    List.rev @@ List.mapi (fun i c -> img_of_card ~coord:(coord, i + 1) c) stack
+  in
   let x = Lwd.var false in
   let a = Lwd.get x in
   let class_ =
@@ -114,14 +127,14 @@ let div_of_stack ~coord stack =
         @@ Some
              (fun _ ->
                if
-                 Model.check_move
+                 Model.check_move_i
                    (!holded_coord, Model.Stack coord)
-                   current_state
+                   !holded_coord_iter current_state
                then
                  set_state
-                   (Model.do_move
+                   (Model.do_move_i
                       (!holded_coord, Model.Stack coord)
-                      current_state);
+                      !holded_coord_iter current_state);
                false);
       ]
     l
@@ -163,14 +176,14 @@ let div_of_line ~coord ((left, center, right) : Model.line) =
       @@ Some
            (fun _ ->
              if
-               Model.check_move
+               Model.check_move_i
                  (!holded_coord, Model.Center coord)
-                 current_state
+                 !holded_coord_iter current_state
              then
                set_state
-                 (Model.do_move
+                 (Model.do_move_i
                     (!holded_coord, Model.Center coord)
-                    current_state);
+                    !holded_coord_iter current_state);
              false);
     ]
   in
@@ -233,13 +246,13 @@ let onload _ =
     let$* state = current_state in
     div_of_board state
   in
-  (* let winning_txt = *)
-  (*   let string = *)
-  (*     let$ state = current_state in *)
-  (*     if Model.solve state then "Possible to win" else "Impossible to win" *)
-  (*   in *)
-  (*   Html.div ~a:[] [ Html.txt string ] *)
-  (* in *)
+  let winning_txt =
+    let string =
+      let$ state = current_state in
+      if Model.solve state then "Possible to win" else "Impossible to win"
+    in
+    Html.div ~a:[] [ Html.txt string ]
+  in
   let has_next_move =
     let txt =
       let$ state = current_state in
@@ -258,6 +271,16 @@ let onload _ =
     in
     Html.div ~a:[] [ Html.txt txt ]
   in
+  let win =
+    let visibility =
+      let$ state = current_state in
+      if Model.is_a_win state then "display: block" else "display:none"
+    in
+    let style = Html.a_style visibility in
+    Html.div
+      ~a:[ style; Html.a_class @@ Lwd.pure [ "bravo" ] ]
+      [ Html.txt @@ Lwd.pure "BRAVO!!!" ]
+  in
   let doc =
     Html.div
       [
@@ -267,7 +290,8 @@ let onload _ =
         has_next_move;
         button_undo ();
         stage_number;
-        (* winning_txt; *)
+        winning_txt;
+        win;
       ]
   in
   (*let root = Lwd.observe (Lwdom.to_fragment doc) in*)
