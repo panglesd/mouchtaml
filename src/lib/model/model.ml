@@ -439,7 +439,7 @@ let is_a_win state =
 
 type game = Winning | Losing
 
-let htbl = Hashtbl.create 10
+let solved = Hashtbl.create 10
 
 let rec mount_all state =
   match
@@ -455,16 +455,16 @@ let solve state =
     if Hashtbl.mem proccessed state then None
     else (
       Hashtbl.add proccessed state ();
-      match Hashtbl.find_opt htbl state with
+      match Hashtbl.find_opt solved state with
       | None ->
           let res = process state in
-          Option.iter (Hashtbl.add htbl state) res;
+          Option.iter (Hashtbl.add solved state) res;
           res
       | Some Winning -> Some Winning
       | Some Losing -> Some Losing)
   and process state =
     if is_a_win state then (
-      Hashtbl.add htbl state Winning;
+      Hashtbl.add solved state Winning;
       Some Winning)
     else
       let list_next_state = list_next_state state in
@@ -481,15 +481,16 @@ let solve state =
           (Some Losing) list_next_state
       with
       | Some f as res ->
-          Hashtbl.add htbl state f;
+          Hashtbl.add solved state f;
           res
       | _ as res -> res
   in
   let res = solve state in
-  Printf.printf "Size of the hashtable: %d\n" (Hashtbl.stats htbl).num_bindings;
+  Printf.printf "Size of the hashtable: %d\n"
+    (Hashtbl.stats solved).num_bindings;
   match res with
   | Some Winning -> true
   | Some Losing -> false
   | None ->
-      Hashtbl.add htbl state Losing;
+      Hashtbl.add solved state Losing;
       false
